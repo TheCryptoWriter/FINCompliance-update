@@ -793,7 +793,7 @@
                 $('.scroll-top').fadeOut();
             }
         });
-
+ 
 
         /*****************************
          *  Image Gallery Popup  *
