@@ -41,12 +41,18 @@
 
 <body class="m-0 p-0">
     <!-- ==============================================
-    **Preloader**
-    =================================================== -->
+            **Preloader**
+            =================================================== -->
+    <div id="loader">
+        <div id="element">
+            <div class="circ-one"></div>
+            <div class="circ-two"></div>
+        </div>
+    </div>
     <section>
         <!-- ==============================================
-**Header**
-=================================================== -->
+    **Header**
+    =================================================== -->
         <header class="opt2">
             <!-- Start Navigation -->
             <nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-fixed-top">
@@ -133,42 +139,39 @@
             </nav>
             <!-- End Navigation -->
         </header>
-        <!-- ==============================================
+    </section>
+    <!-- ==============================================
     **Banner Image**
     =================================================== -->
-        <div class="inner-banner">
-            <div class="fin-bg">
-                <div class="contents">
-                    <div class="container">
-                        <div class="row pt-5">
-                            <div class="col my-4">
-                                <h1 class="padding-lg text-center border-dark">Reset password confirmation</h1>
-                            </div>
-
+    <div class="inner-banner">
+        <div class="fin-bg">
+            <div class="contents">
+                <div class="container">
+                    <div class="row pt-5">
+                        <div class="col my-4">
+                            <h1 class="padding-lg text-center border-dark">Reset password confirmation</h1>
                         </div>
+
                     </div>
                 </div>
             </div>
         </div>
-        <!-- ==============================================
+    </div>
+    <!-- ==============================================
     **Header**
     =================================================== -->
 
-        <section class="content-area py-5 padding-lg">
-            <div class="container">
+    <section class="content-area py-5 padding-lg">
+        <div class="container">
 
-                <div>
-                    <h4 class="text-center">
-                        Your password has been reset. Please <a href="/Account/Login" id="loginLink">click here to log in</a>
-                    </h4>
-                </div>
+            <div>
+                <h4 class="text-center">
+                    Your password has been reset. Please <a href="/Account/Login" id="loginLink">click here to log in</a>
+                </h4>
             </div>
-        </section>
-
-        <!-- ==============================================
-        **Signup Section**
-        =================================================== -->
-
+        </div>
+    </section>
+    <section>
         <!-- ==============================================
        **Signup Section**
        =================================================== -->
@@ -191,12 +194,15 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="row">
-                        <div class="large-btn px-2">
-                            <a href="signup.html" class=" btn">Sign Up Now</a>
+                    <div class="row w-75 justify-content-center ">
+                        <div class="col mx-auto">
+                            <a href="signup.html" class="btn py-1 px-auto">Signup Here</a>
                         </div>
-                        <div class="large-btn px-2">
-                            <a href="/Home/ContactB" class="btn">Contact Us</a>
+                        <div class="col mx-auto">
+                            <a href="ContactB.html" class="btn py-1 px-auto">Desktop Setup</a>
+                        </div>
+                        <div class="col mx-auto">
+                            <a href="ContactB.html" class="btn py-1 px-auto">Mobile Setup</a>
                         </div>
                     </div>
                 </div>
@@ -214,17 +220,17 @@
                                 <h4>Quick Links</h4>
                                 <ul>
                                     <li><a href="/">Home</a></li>
-                                    <li><a href="/Home/WhoWeAre">About Us</a></li>
-                                    <li><a href="/Home/FeaturesB">Features</a></li>
-                                    <li><a href="/Home/PricingB">Pricing</a></li>
-                                    <li><a href="/Home/ContactB">Contact Us</a></li>
+                                    <li><a href="WhoWeAre.html">About Us</a></li>
+                                    <li><a href="FeaturesB.html">Features</a></li>
+                                    <li><a href="PricingB.html">Pricing</a></li>
+                                    <li><a href="ContactB.html">Contact Us</a></li>
                                     <li><a href="https://www.fincomplianceblog.com/">Blog</a></li>
-                                    <li><a href="/Home/HowItWorksB">How it Works</a></li>
-                                    <li><a href="/Home/FAQB">FAQ</a></li>
+                                    <li><a href="HowItWorksB.html">How it Works</a></li>
+                                    <li><a href="FAQB.html">FAQ</a></li>
                                     <li><a href="AffiliateProgram.html">Affiliate Program</a></li>
-                                    <li><a href="/Home/ContinuityPolicy">Continuity</a></li>
-                                    <li><a href="/Home/PrivacyPolicyB">Privacy Policy</a></li>
-                                    <li><a href="/Home/DisclaimersB">Disclaimers</a></li>
+                                    <li><a href="ContinuityPolicy.html">Continuity</a></li>
+                                    <li><a href="PrivacyPolicyB.html">Privacy Policy</a></li>
+                                    <li><a href="DisclaimersB.html">Disclaimers</a></li>
                                 </ul>
                             </div>
                             <div class="connect-outer">
@@ -258,6 +264,7 @@
                         <div class="text-center col-md-12 col-lg-5 clearfix">
                             <div class="large-btn">
                                 <a href="/Brochure" class="btn">Download Brochure</a>
+
                             </div>
                             <div class="tweet clearfix">
                                 <span class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></span>
@@ -275,30 +282,30 @@
             </div>
         </footer>
     </section>
+    <a href="signup.html" class="btn fixed-bottom get-started">Build Compliance Portal To Manage Tasks</a>
 
     <!-- ==============================================
-            **Footer opt2**
-            =================================================== -->
+    **Footer opt2**
+    =================================================== -->
     <!-- Scroll to top -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Popper JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <!-- Bootsrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"></script>
     <!-- Select2 JS -->
-    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
     <!-- Bxslider JS -->
-    <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.js"></script>
     <!-- Owl Carousal JS -->
-    <script src="../content/fincompliance2021/assets/owl-carousel/js/owl.carousel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
     <!-- Video Popup JS -->
-    <script src="../content/fincompliance2021/assets/magnific-popup/js/magnific-popup.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
     <!-- Custom JS -->
-    <script src="../content/fincompliance2021/assets/waypoints/js/waypoints.min.js"></script>
-    <script src="../content/fincompliance2021/assets/counterup/js/counterup.min.js"></script>
-    <script src="../content/fincompliance2021/js/custom.js"></script>
-    <script src="../content/fincompliance2021/js/jquery-custom.js"></script>
+    <script src="../Content/fincompliance2021/js/custom.js"></script>
+    <script src="../Content/fincompliance2021/js/jquery-custom.js"></script>
 </body>
 
 </html>
