@@ -12,8 +12,8 @@ $.ajax({
 });
 // end ajax and ready methods
 
-$(function () {
-    $(document).scroll(function () {
+$(function() {
+    $(document).scroll(function() {
         var $nav = $(".navbar-fixed-top");
         var $logo = $('#NavbarLogo');
         var $navbarNav = $('.navbar-nav');
@@ -26,9 +26,9 @@ $(function () {
 
 });
 
-window.onload = function () {
+window.onload = function() {
     var t;
-    window.jQuery ? (t = jQuery)(".counter").each(function () {
+    window.jQuery ? (t = jQuery)(".counter").each(function() {
         var n = t(this),
             o = n.text();
         n.text("");
@@ -42,10 +42,10 @@ window.onload = function () {
         }, {
             duration: e,
             easing: a,
-            step: function () {
+            step: function() {
                 n.text(Math.floor(this.countNum))
             },
-            complete: function () {
+            complete: function() {
                 n.text(this.countNum)
             }
         })
@@ -64,10 +64,10 @@ $.get('/includes/header.html', function (response) {
 });
 */
 
-$('#loginAjax').click(function (event) {
+$('#loginAjax').click(function(event) {
     event.preventDefault();
     this.blur(); // Manually remove focus from clicked link.
-    $.get(this.href, function (html) {
+    $.get(this.href, function(html) {
         $(html).appendTo('body').modal();
     });
     var html;
@@ -78,10 +78,10 @@ $('#loginAjax').click(function (event) {
         html = $('.modal').detach()
     };
 });
-$('#manual-ajax').click(function (event) {
+$('#manual-ajax').click(function(event) {
     event.preventDefault();
     this.blur(); // Manually remove focus from clicked link.
-    $.get(this.href, function (html) {
+    $.get(this.href, function(html) {
         $(html).appendTo('body').modal();
     });
     var html;
@@ -92,10 +92,10 @@ $('#manual-ajax').click(function (event) {
         html = $('.modal').detach()
     };
 });
-$('#checkoutFirm').click(function (event) {
+$('#checkoutFirm').click(function(event) {
     event.preventDefault();
     this.blur(); // Manually remove focus from clicked link.
-    $.get(this.href, function (html) {
+    $.get(this.href, function(html) {
         $(html).appendTo('body').modal();
     });
     var html;
@@ -106,10 +106,10 @@ $('#checkoutFirm').click(function (event) {
         html = $('.modal').detach()
     };
 });
-$('#checkoutVendor').click(function (event) {
+$('#checkoutVendor').click(function(event) {
     event.preventDefault();
     this.blur(); // Manually remove focus from clicked link.
-    $.get(this.href, function (html) {
+    $.get(this.href, function(html) {
         $(html).appendTo('body').modal();
     });
     var html;
@@ -120,10 +120,10 @@ $('#checkoutVendor').click(function (event) {
         html = $('.modal').detach()
     };
 });
-$('#checkoutPaidFirm').click(function (event) {
+$('#checkoutPaidFirm').click(function(event) {
     event.preventDefault();
     this.blur(); // Manually remove focus from clicked link.
-    $.get(this.href, function (html) {
+    $.get(this.href, function(html) {
         $(html).appendTo('body').modal();
     });
     var html;
@@ -134,10 +134,10 @@ $('#checkoutPaidFirm').click(function (event) {
         html = $('.modal').detach()
     };
 });
-$('#checkoutPaidVendor').click(function (event) {
+$('#checkoutPaidVendor').click(function(event) {
     event.preventDefault();
     this.blur(); // Manually remove focus from clicked link.
-    $.get(this.href, function (html) {
+    $.get(this.href, function(html) {
         $(html).appendTo('body').modal();
     });
     var html;
@@ -148,25 +148,10 @@ $('#checkoutPaidVendor').click(function (event) {
         html = $('.modal').detach()
     };
 });
-$('#checkoutStudent').click(function (event) {
+$('#checkoutStudent').click(function(event) {
     event.preventDefault();
     this.blur(); // Manually remove focus from clicked link.
-    $.get(this.href, function (html) {
-        $(html).appendTo('body').modal();
-    });
-    var html;
-    if (html) {
-        html.appendTo('body');
-        html = null;
-    } else {
-        html = $('.modal').detach()
-    };
-});
-
-$('#checkoutPortal').click(function (event) {
-    event.preventDefault();
-    this.blur(); // Manually remove focus from clicked link.
-    $.get(this.href, function (html) {
+    $.get(this.href, function(html) {
         $(html).appendTo('body').modal();
     });
     var html;
@@ -178,38 +163,54 @@ $('#checkoutPortal').click(function (event) {
     };
 });
 
-
-
-$('#Overview').on('load', function (event) {
-            event.preventDefault();
-            this.blur(); // Manually remove focus from clicked link.
-           
-                    $.get(this.href, function (html) {
-
-                        $(html).appendTo('body').modal();
-                    });
-                    var html;
-                 setTimeout(function () {
-                             if (html) {
-                        html.appendTo('body');
-                        html = null;
-                    } else {
-                        html = $('.modal').detach()
-                    };},
-                    5000)
-            });
+$('#checkoutPortal').click(function(event) {
+    event.preventDefault();
+    this.blur(); // Manually remove focus from clicked link.
+    $.get(this.href, function(html) {
+        $(html).appendTo('body').modal();
+    });
+    var html;
+    if (html) {
+        html.appendTo('body');
+        html = null;
+    } else {
+        html = $('.modal').detach()
+    };
+});
 
 
 
+$('#Overview').on('load', function(event) {
+    event.preventDefault();
+    this.blur(); // Manually remove focus from clicked link.
+
+    $.get(this.href, function(html) {
+
+        $(html).appendTo('body').modal();
+    });
+    var html;
+    setTimeout(function() {
+            if (html) {
+                html.appendTo('body');
+                html = null;
+            } else {
+                html = $('.modal').detach()
+            };
+        },
+        5000)
+});
 
 
-        $('.owl-carousel').owlCarousel({
-            loop: true,
-            items: 2,
-            margin: 10,
-            center: true,
-            responsiveClass: true,
-            padding: 20,
-            autoplay: true,
-            autoplaySpeed: 700
-        })
+
+
+
+$('.owl-carousel').owlCarousel({
+    loop: true,
+    items: 2,
+    margin: 10,
+    center: true,
+    responsiveClass: true,
+    padding: 20,
+    autoplay: true,
+    autoplaySpeed: 700
+})
