@@ -866,7 +866,22 @@
             </div>
         </footer>
     </section>
-    <a href="signup.html" class="btn fixed-bottom get-started">SETUP AN ACCOUNT FOR REGULATORY UPDATES</a>
+    <div>
+        <div id="cookie-consent" style="position: fixed; bottom: 50px; width: 100%; background-color: azure; border: 2px solid lightgray;z-index:1005">
+            <div class="row">
+                <div class="col-8" style="margin-left: 5%;">
+                    <span>
+                    Please note that on our website we use cookies necessary for the functioning of our website, cookies that optimize the performance. <br>
+                    To learn more about our cookies, how we use them and their benefits please <a href="/Home/PrivacyPolicyB" target="_blank">read our cookie policy</a>.
+                </span>
+                </div>
+                <div class="col-3">
+                    <button class="btn" id="consent" style="cursor:pointer; float: right;">I Understand</button>
+                </div>
+            </div>
+        </div>
+        <a href="signup.html" class="btn fixed-bottom get-started" style="height:52px;bottom:0;width:100%">SETUP AN ACCOUNT FOR REGULATORY UPDATES</a>
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Popper JS -->
     <script src="/Content/fincompliance2021/js/videopopup.js"></script>
@@ -887,7 +902,24 @@
 
     <script src="../Content/fincompliance2021/js/custom.js"></script>
     <script src="../Content/fincompliance2021/js/jquery-custom.js"></script>
-
+    <script>
+        $(function() {
+            if (document.cookie.indexOf("cookies") < 0) {
+                $('#cookie-consent').slideDown('slow');
+            }
+            $('#consent').on('click', function() {
+                $('#cookie-consent').slideUp('slow');
+                $.ajax({
+                    type: "POST",
+                    url: '/Home/AddConsentCookie',
+                    contentType: "application/json;",
+                    success: function(response) {
+                        console.log("Consent cookie recorded");
+                    },
+                });
+            });
+        });
+    </script>
 </body>
 
 </html>
