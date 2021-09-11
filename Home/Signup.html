@@ -166,131 +166,92 @@
     <section class="shop-grid padding-lg ">
         <div class="container">
 
-            <section class="content-marketing content-marketing3 padding-lg top ">
-                <div class="row">
-                    <div class="col-md">
-                        <h3>
-                            Create Profile to join our Network </h3>
-                    </div>
-                </div>
-            </section>
-            <ul class="row align-items-center Product-listing">
-                <li class="col-12">
-                    <div class="inner">
-                        <div class="product-block">
-                            <figure><img src="/Content/fincompliance2021/images/images/screenshots/mobile dashboard.png" class="img-fluid" style="width:50%" alt=""></figure>
-                        </div>
-                        <div class="product-detail">
-                            <h6>
-                                Compliance Software<br /> Free Version
-                            </h6>
 
-                            <div class="bottom">
-                                <p><span style="color:red">(Investment Advisors, Rep Registration)</span></p>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-            </ul>
             <ul class="row align-content-center Product-listing">
 
                 <div class="col-12 mt-lg-3">
-                    <h5 class="text-center">Register Here</h5>
+                    <h3 class="text-center">Get Started with a Profile</h3>
 
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <span style="float:left">
-                                <h4 class="modal-title">Advisor/Business profile</h4>
-                            </span>
-                                <button type="button" class="close btn-close" data-dismiss="modal" id="btnHideModal3" style="float:right; padding: 0px; margin: 10px;">
-                                ×
-                            </button>
+
+                    <h4 class="modal-title">Advisor/Business profile</h4>
+
+
+                    <form role="form" method="post" action="/Account/Register" id="frmSave">
+                        <input name="__RequestVerificationToken" type="hidden" value="5sDpMe2PRpp_ZHlwu6WDr6ftYJHAFciCGSk31sL4talFPx5clM2DuwjERaxL5TRV0oWhR0Bef1PgNbTJoDP5l1tH6r-JCQpIsjAP4XY7SAU1" />
+                        <div class="form-area">
+                            <div class="row">
+                                <div class="form-group col-6">
+                                    <label for="username">Email (Username)</label>
+                                    <input type="email" name="email" placeholder="" class="form-control" required spellcheck="false">
+
+                                </div>
+                                <div class="form-group col-6">
+                                    <label for="password">Password</label>
+                                    <input type="password" name="password" placeholder="**********" class="form-control" required minlength="8" spellcheck="false">
+                                </div>
                             </div>
-                            <div class="modal-body">
-                                <form role="form" method="post" action="/Account/Register" id="frmSave">
-                                    <input name="__RequestVerificationToken" type="hidden" value="5sDpMe2PRpp_ZHlwu6WDr6ftYJHAFciCGSk31sL4talFPx5clM2DuwjERaxL5TRV0oWhR0Bef1PgNbTJoDP5l1tH6r-JCQpIsjAP4XY7SAU1" />
-                                    <div class="form-area">
-                                        <div class="row">
-                                            <div class="form-group col-6">
-                                                <label for="username">Email (Username)</label>
-                                                <input type="email" name="email" placeholder="" class="form-control" required spellcheck="false">
+                            <div class="form-group">
+                                <label for="firmname">Firm Name*</label>
+                                <input type="text" name="firmname" placeholder="" class="form-control" required>
 
-                                            </div>
-                                            <div class="form-group col-6">
-                                                <label for="password">Password</label>
-                                                <input type="password" name="password" placeholder="**********" class="form-control" required minlength="8" spellcheck="false">
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="firmname">Firm Name*</label>
-                                            <input type="text" name="firmname" placeholder="" class="form-control" required>
+                            </div>
 
-                                        </div>
+                            <div class="form-group">
+                                <label for="firmcontact">Firm Contact Name*</label>
+                                <input type="text" name="firmcontactname" placeholder="" class="form-control" required>
+                            </div>
 
-                                        <div class="form-group">
-                                            <label for="firmcontact">Firm Contact Name*</label>
-                                            <input type="text" name="firmcontactname" placeholder="" class="form-control" required>
-                                        </div>
+                            <div class="form-group">
 
-                                        <div class="form-group">
+                                <label for="mainphone">Main Phone Number*</label>
+                                <input type="tel" name="firmmainphone" placeholder="" class="form-control" required>
+                            </div>
 
-                                            <label for="mainphone">Main Phone Number*</label>
-                                            <input type="tel" name="firmmainphone" placeholder="" class="form-control" required>
-                                        </div>
+                            <div class="form-group">
 
-                                        <div class="form-group">
+                                <label for="cellphone">Cell Phone Number</label>
+                                <input type="tel" name="firmcellphone" placeholder="" class="form-control">
+                            </div>
+                            <div class="row">
 
-                                            <label for="cellphone">Cell Phone Number</label>
-                                            <input type="tel" name="firmcellphone" placeholder="" class="form-control">
-                                        </div>
+                                <div class="form-group col-6">
 
-                                        <div class="form-group">
-
-                                            <label for="firmaum">Firm Size (AUM)</label><br>
-                                            <input name="firmsizeaumid" value="1" type="radio" class="custom_select" checked>
-                                            <label for="1">$0-25 Million</label><br>
-                                            <input name="firmsizeaumid" value="2" type="radio" class="custom_select">
-                                            <label for="2">$25-100 Million</label><br>
-                                            <input name="firmsizeaumid" value="3" type="radio" class="custom_select">
-                                            <label for="3">$100-500 Million</label>
-                                        </div>
-
-                                        <div class="form-group">
-                                            <label for="firmsizeemployeeid">Firm Size (employees)</label><br>
-                                            <input type="radio" value="1" name="firmsizeemployeeid" checked>
-                                            <label for="1">0-5 employees</label><br>
-                                            <input type="radio" value="2" name="firmsizeemployeeid"> <label for="2">5-10 employees</label><br>
-                                            <input type="radio" value="3" name="firmsizeemployeeid"> <label for="3">10 or more employees</label><br>
-                                        </div>
-                                        <div class="form-group">
-                                            <div class="col-md-2"></div>
-                                            <div class="col-md-10">
-                                                <!--Production sitekey-->
-                                                <!--<div class="g-recaptcha" data-sitekey="6LcwaC0UAAAAAL_0HomWeu_tKRF4jbWB4IhNnG1Y"></div>-->
-                                                <!--Dev server or localhost sitekey-->
-                                                <div class="g-recaptcha" data-sitekey="6LcvjlgUAAAAACl3z-i8z1MqBik5UNzALpo-ZYS7" data-callback="reCaptchaVerify"></div>
-                                                <div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <div style="display:none;" id="submitForm">
-                                                <button type="submit" class="btn btn-success">Register</button>
-                                            </div>
-                                        </div>
+                                    <label for="firmaum">Firm Size (AUM)</label><br>
+                                    <input name="firmsizeaumid" value="1" type="radio" class="custom_select" checked>
+                                    <label for="1">$0-25 Million</label><br>
+                                    <input name="firmsizeaumid" value="2" type="radio" class="custom_select">
+                                    <label for="2">$25-100 Million</label><br>
+                                    <input name="firmsizeaumid" value="3" type="radio" class="custom_select">
+                                    <label for="3">$100-500 Million</label>
+                                    <br><br>
+                                    <label for="firmsizeemployeeid">Firm Size (employees)</label><br>
+                                    <input type="radio" value="1" name="firmsizeemployeeid" checked>
+                                    <label for="1">0-5 employees</label><br>
+                                    <input type="radio" value="2" name="firmsizeemployeeid"> <label for="2">5-10 employees</label><br>
+                                    <input type="radio" value="3" name="firmsizeemployeeid"> <label for="3">10 or more employees</label><br>
+                                    <br>
+                                    <div class="g-recaptcha " data-sitekey="6LcvjlgUAAAAACl3z-i8z1MqBik5UNzALpo-ZYS7 " data-callback="reCaptchaVerify "></div>
+                                    <br>
+                                    <div id="submitForm ">
+                                        <button type="submit " class="btn btn-success ">Register</button>
                                     </div>
-                                </form>
+                                </div>
+
+
+
+
+                                <div class="col-6 text-center">
+                                    <img width="100%" src="../Content/fincompliance2021/images/images/screenshots/dashboard.png ">
+                                    <br><b><strong >Register for a free version<br>of our compliance system</strong></b></div>
                             </div>
                         </div>
-                    </div>
+                    </form>
                 </div>
             </ul>
-
-            <section class="content-marketing content-marketing3 padding-md">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md">
+            <section class="content-marketing content-marketing3 padding-md ">
+                <div class="container ">
+                    <div class="row ">
+                        <div class="col-md ">
                             <h3>
                                 Consulting Services
                             </h3>
@@ -299,33 +260,33 @@
                 </div>
             </section>
 
-            <ul class="row align-items-center Product-listing">
+            <ul class="row align-items-center Product-listing ">
                 <li class="col-12 ">
-                    <div class="inner">
-                        <div class="product-block">
-                            <figure><img src="/Content/fincompliance2021/images/images/screenshots/devices.png" class="img-fluid" style="width:50%" alt=""></figure>
+                    <div class="inner ">
+                        <div class="product-block ">
+                            <figure><img src="/Content/fincompliance2021/images/images/screenshots/devices.png " class="img-fluid " style="width:50% " alt=" "></figure>
                         </div>
-                        <div class="product-detail">
+                        <div class="product-detail ">
                             <h6>
                                 Consulting<br /> Registrations, Filings, Reviews, Strategy, Affiliate Referrals, and more
                             </h6>
 
-                            <div class="bottom">
-                                <p><span style="color:red">(Investment Advisors, Rep Registration)</span></p>
+                            <div class="bottom ">
+                                <p><span style="color:red ">(Investment Advisors, Rep Registration)</span></p>
                                 <br />
-                                <a type="button" href="/Home/ContactB" class="btn get-started">Contact</a>
+                                <a type="button " href="/Home/ContactB " class="btn get-started ">Contact</a>
                             </div>
                         </div>
                     </div>
                 </li>
             </ul>
 
-            <div class="flex-row">
+            <div class="flex-row ">
                 <section class=" ">
-                    <div class="container">
+                    <div class="container ">
                         <div class="row ">
-                            <div class="mx-auto">
-                                <div class="text-center">
+                            <div class="mx-auto ">
+                                <div class="text-center ">
                                     <h3>Online Services</h3>
                                     <h3>Compliance Manager System</h3>
                                     <h5>(CCOs, Compliance staff)</h5>
@@ -335,43 +296,43 @@
                     </div>
                 </section>
 
-                <ul class="row Product-listing">
-                    <li class="col-sm-12 col-lg-6">
-                        <div class="inner">
+                <ul class="row Product-listing ">
+                    <li class="col-sm-12 col-lg-6 ">
+                        <div class="inner ">
 
-                            <div class="product-block">
-                                <figure><img src="/Content/fincompliance2021/images/images/screenshots/mobile dashboard.png" style="width:50%" class="img-fluid" alt=""></figure>
+                            <div class="product-block ">
+                                <figure><img src="/Content/fincompliance2021/images/images/screenshots/mobile dashboard.png " style="width:50% " class="img-fluid " alt=" "></figure>
                             </div>
-                            <div class="product-detail">
+                            <div class="product-detail ">
                                 <h6>
                                     Compliance Software
 
                                     <br> Premium Version
                                 </h6>
 
-                                <div class="bottom">
+                                <div class="bottom ">
 
                                     <br>
-                                    <a type="button" href="/Home/ContactB" class="btn get-started">Contact</a>
+                                    <a type="button " href="/Home/ContactB " class="btn get-started ">Contact</a>
 
                                 </div>
                             </div>
                         </div>
 
                     </li>
-                    <li class="col-sm-12 col-lg-6">
-                        <div class="inner">
-                            <div class="product-block">
-                                <figure><img src="/Content/fincompliance2021/images/images/screenshots/mobile dashboard.png" style="width:50%" class="img-fluid" alt=""></figure>
+                    <li class="col-sm-12 col-lg-6 ">
+                        <div class="inner ">
+                            <div class="product-block ">
+                                <figure><img src="/Content/fincompliance2021/images/images/screenshots/mobile dashboard.png " style="width:50% " class="img-fluid " alt=" "></figure>
                             </div>
-                            <div class="product-detail">
+                            <div class="product-detail ">
                                 <h6>
                                     Compliance Software<br /> Premium Plus Version
                                 </h6>
 
-                                <div class="bottom">
+                                <div class="bottom ">
                                     <br>
-                                    <a type="button" href="/Home/ContactB" class="btn get-started">Contact</a>
+                                    <a type="button " href="/Home/ContactB " class="btn get-started ">Contact</a>
                                 </div>
                             </div>
                         </div>
@@ -379,12 +340,12 @@
                 </ul>
             </div>
 
-            <div class="flex-row">
+            <div class="flex-row ">
                 <section class=" ">
-                    <div class="container">
+                    <div class="container ">
                         <div class="row ">
-                            <div class="mx-auto">
-                                <div class="text-center">
+                            <div class="mx-auto ">
+                                <div class="text-center ">
                                     <h3>Online Services</h3>
                                     <h3>Disclosure Application System</h3>
                                     <h5>(CCOs, Staff, Assistants, Clients, Prospects, Vendors)</h5>
@@ -394,43 +355,43 @@
                     </div>
                 </section>
 
-                <ul class="row Product-listing">
-                    <li class="col-sm-12 col-lg-6">
-                        <div class="inner">
+                <ul class="row Product-listing ">
+                    <li class="col-sm-12 col-lg-6 ">
+                        <div class="inner ">
 
-                            <div class="product-block">
-                                <figure><img src="/Content/fincompliance2021/images/images/screenshots/mobile.png" style="width:50%" class="img-fluid" alt=""></figure>
+                            <div class="product-block ">
+                                <figure><img src="/Content/fincompliance2021/images/images/screenshots/mobile.png " style="width:50% " class="img-fluid " alt=" "></figure>
                             </div>
-                            <div class="product-detail">
+                            <div class="product-detail ">
                                 <h6>
                                     Disclosure App
 
                                     <br> Basic Version
                                 </h6>
 
-                                <div class="bottom">
+                                <div class="bottom ">
 
                                     <br>
-                                    <a type="button" href="/Home/ContactB" class="btn get-started">Contact</a>
+                                    <a type="button " href="/Home/ContactB " class="btn get-started ">Contact</a>
 
                                 </div>
                             </div>
                         </div>
 
                     </li>
-                    <li class="col-sm-12 col-lg-6">
-                        <div class="inner">
-                            <div class="product-block">
-                                <figure><img src="/Content/fincompliance2021/images/images/screenshots/mobile.png" style="width:50%" class="img-fluid" alt=""></figure>
+                    <li class="col-sm-12 col-lg-6 ">
+                        <div class="inner ">
+                            <div class="product-block ">
+                                <figure><img src="/Content/fincompliance2021/images/images/screenshots/mobile.png " style="width:50% " class="img-fluid " alt=" "></figure>
                             </div>
-                            <div class="product-detail">
+                            <div class="product-detail ">
                                 <h6>
                                     Disclosure App<br /> Unlimited Version
                                 </h6>
 
-                                <div class="bottom">
+                                <div class="bottom ">
                                     <br>
-                                    <a type="button" href="/Home/ContactB" class="btn get-started">Contact</a>
+                                    <a type="button " href="/Home/ContactB " class="btn get-started ">Contact</a>
                                 </div>
                             </div>
                         </div>
@@ -470,12 +431,15 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="row">
-                        <div class="large-btn px-2">
-                            <a href="signup.html" class=" btn">Sign Up Now</a>
+                    <div class="row w-75 justify-content-center ">
+                        <div class="col mx-auto">
+                            <a href="signup.html" class="btn py-1 px-auto">Signup Here</a>
                         </div>
-                        <div class="large-btn px-2">
-                            <a href="/Home/ContactB" class="btn">Contact Us</a>
+                        <div class="col mx-auto">
+                            <button type="button" class="btn py-1 px-auto video-btn" data-src="https://player.vimeo.com/video/587275011" data-toggle="modal" data-target="#myModal">Desktop Setup</button>
+                        </div>
+                        <div class="col mx-auto">
+                            <a href="ContactB.html" class="btn py-1 px-auto">Mobile Setup</a>
                         </div>
                     </div>
                 </div>
@@ -513,17 +477,17 @@
                                 <h4>Quick Links</h4>
                                 <ul>
                                     <li><a href="/index.htm">Home</a></li>
-                                    <li><a href="/Home/WhoWeAre">About Us</a></li>
-                                    <li><a href="/Home/FeaturesB">Features</a></li>
-                                    <li><a href="/Home/PricingB">Pricing</a></li>
-                                    <li><a href="/Home/ContactB">Contact Us</a></li>
+                                    <li><a href="WhoWeAre.html">About Us</a></li>
+                                    <li><a href="FeaturesB.html">Features</a></li>
+                                    <li><a href="PricingB.html">Pricing</a></li>
+                                    <li><a href="ContactB.html">Contact Us</a></li>
                                     <li><a href="https://www.fincomplianceblog.com/">Blog</a></li>
-                                    <li><a href="/Home/HowItWorksB">How it Works</a></li>
-                                    <li><a href="/Home/FAQB">FAQ</a></li>
+                                    <li><a href="HowItWorksB.html">How it Works</a></li>
+                                    <li><a href="FAQB.html">FAQ</a></li>
                                     <li><a href="AffiliateProgram.html">Affiliate Program</a></li>
-                                    <li><a href="/Home/ContinuityPolicy">Continuity</a></li>
-                                    <li><a href="/Home/PrivacyPolicyB">Privacy Policy</a></li>
-                                    <li><a href="/Home/DisclaimersB">Disclaimers</a></li>
+                                    <li><a href="ContinuityPolicy.html">Continuity</a></li>
+                                    <li><a href="PrivacyPolicyB.html">Privacy Policy</a></li>
+                                    <li><a href="DisclaimersB.html">Disclaimers</a></li>
                                 </ul>
                             </div>
                             <div class="connect-outer">
@@ -556,7 +520,8 @@
                         </div>
                         <div class="text-center col-md-12 col-lg-5 clearfix">
                             <div class="large-btn">
-                                <a href="/Brochure" class="btn">Download Brochure</a>
+                                <a href="Brochure.pdf" class="btn">Download Brochure</a>
+
                             </div>
                             <div class="tweet clearfix">
                                 <span class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></span>
@@ -574,40 +539,39 @@
             </div>
         </footer>
     </section>
-    <a href="signup.html" class="btn fixed-bottom get-started">SETUP AN ACCOUNT FOR REGULATORY UPDATES</a>
 
     <!-- ==============================================
     **Footer opt2**
     =================================================== -->
     <!-- Scroll to top -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="../Content/fincompliance2021/js/videopopup.js"></script>
     <!-- Popper JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <!-- Bootsrap JS -->
-    <script src="/Content/fincompliance2021/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"></script>
     <!-- Select2 JS -->
-    <script src="/Content/fincompliance2021/assets/select2/js/select2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
     <!-- Bxslider JS -->
-    <script src="/Content/fincompliance2021/assets/bxslider/js/bxslider.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.js"></script>
     <!-- Owl Carousal JS -->
-    <script src="/Content/fincompliance2021/assets/owl-carousel/js/owl.carousel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
     <!-- Video Popup JS -->
-    <script src="/Content/fincompliance2021/assets/magnific-popup/js/magnific-popup.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
     <!-- Custom JS -->
-    <script src="/Content/fincompliance2021/assets/waypoints/js/waypoints.min.js"></script>
-    <script src="/Content/fincompliance2021/assets/counterup/js/counterup.min.js"></script>
-    <script src="/Content/fincompliance2021/js/custom.js"></script>
-    <script src="/Content/fincompliance2021/js/jquery-custom.js"></script>
+    <script src="../Content/fincompliance2021/js/custom.js"></script>
+    <script src="../Content/fincompliance2021/js/jquery-custom.js"></script>
+
 
     <script>
         function displayFirmRegistration() {
             $('#showFirm').show();
         }
 
-        $("#btnHideModal3").click(function() {
-            $("#showFirm").hide();
+        $("#btnHideModal3 ").click(function() {
+            $("#showFirm ").hide();
         });
     </script>
     <script>
