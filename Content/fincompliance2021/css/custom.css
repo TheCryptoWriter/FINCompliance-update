@@ -1647,6 +1647,39 @@ nav .nav-link {
 /* ================================================== */
 
 
+/* Feature Borders */
+
+ft-borders {
+    width: 300px !important;
+    height: 200px !important;
+    background-color: #FFFFFF !important;
+    position: relative !important;
+    box-shadow: 5px -5px 5px 0px #91938D!important;
+}
+
+ft-borders:before {
+    content: "";
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    top: -17px;
+    left: -184px;
+    z-index: -1;
+    background-color: #FFFFFF;
+}
+
+ft-borders:after {
+    content: "";
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    top: -6px;
+    left: 205px;
+    z-index: -1;
+    background-color: #FFFFFF;
+}
+
+
 /*--------------------------------
 	Content Marketing opt1
 ----------------------------------*/
@@ -7560,24 +7593,8 @@ ul.our-values li .text-area p {
     font-size: 12px;
     font-weight: 400;
     line-height: 22px;
-    box-shadow: 0 0 10px -3px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px -3px rgba(0, 0, 0, 0.6);
     margin: 0 0 35px;
-}
-
-.quate-box li:before {
-    width: 48px;
-    height: 48px;
-    line-height: 48px;
-    border-radius: 50%;
-    position: absolute;
-    top: 30%;
-    left: -25px;
-    background: #42d79e;
-    font-size: 20px;
-    color: #fff;
-    content: "\f10e";
-    font-family: 'Arial', sans-serif;
-    text-align: center;
 }
 
 
