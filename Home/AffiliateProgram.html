@@ -150,15 +150,14 @@
     <!-- ==============================================
     **Banner Image**
     =================================================== -->
-    <div class="inner-banner">
-        <div class="fin-bg">
-            <div class="contents">
-                <div class="container">
-                    <div class="row pt-5">
-                        <div class="col-7 my-auto">
+<div class="inner-banner">
+    <div class="fin-bg">
+        <div class="contents">
+            <div class="container">
+                <div class="row pt-5">
+                    <div class="col-7 my-auto">
                             <h1 class=" border-right text-center border-dark">Affiliate Program</h1>
-                        </div>
-                        <div class="col-5">
+                     </div>   <div class="col-5">
                             <img class="img-responsive" src="../Content/fincompliance2021/images/images/screenshots/devices.png">
                         </div>
                     </div>
@@ -176,6 +175,9 @@
                     <h4>
                         FIN Compliance offers referral programs for FinTech vendors and compliance consulting opportunities for contractors. Our partner network consists of opportunities for business referrals, advertising, and software licensing.
                     </h4>
+                    <div class="row justify-content-center padding-md mx-auto">
+                        <button type="button" class="btn py-1 px-auto video-btn" data-toggle="modal" data-target="#formModal">Apply for Directory Listing</button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -501,6 +503,33 @@
     <!-- Custom JS -->
     <script src="../Content/fincompliance2021/js/custom.js"></script>
     <script src="../Content/fincompliance2021/js/jquery-custom.js"></script>
+    <script>
+        function displayFirmRegistration() {
+            $('#showFirm').show();
+        }
+
+        $("#btnHideModal3 ").click(function () {
+            $("#showFirm").hide();
+        });
+    </script>
+    <div class="modal fade" id="formModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document" style="max-width: 800px; margin: 30px auto;">
+            <div class="modal-content">
+    
+                <div class="modal-body" style="position: relative; padding: 0px;">
+    
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="position: absolute; right: -30px; top: 0; z-index: 999; font-size: 2rem; font-weight: normal; color: #fff; opacity: 1;">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <!-- 16:9 aspect ratio -->
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://fincompliance-forms.netlify.app/" id="form" autoplay="true" allowscriptaccess="always"></iframe>
+                    </div>
+    
+                </div>
+    
+            </div>
+        </div>
 </body>
 
 </html>
