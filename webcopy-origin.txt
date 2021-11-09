@@ -1,0 +1,812 @@
+Uri: https://fincompliance.io/
+File Name: D:\Downloaded Web Sites\fincompliance.io\index.htm
+Content Type: text/html
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/logos/tab-icon.ico
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\logos\tab-icon.ico
+Content Type: image/x-icon
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/css/bootstrap.min.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\bootstrap\4.5.3\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\select2\4.0.13\css\select2.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\font-awesome\4.7.0\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/iconmoon/css/iconmoon.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\iconmoon\css\iconmoon.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\magnific-popup.js\1.1.0\magnific-popup.css
+Content Type: text/css
+
+Uri: https://fincompliance.io/Content/fincompliance2021/css/custom.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\css\custom.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\OwlCarousel2\2.2.1\assets\owl.carousel.css
+Content Type: text/css
+
+Uri: https://fincompliance.io/Home/WhoWeAre
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\WhoWeAre.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/FAQB
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\FAQB.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/Impact
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\Impact.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/CaseStudies
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\CaseStudies.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/HowItWorksB
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\HowItWorksB.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/ComplianceConsulting
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\ComplianceConsulting.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/ComplianceManager
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\ComplianceManager.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/BusinessManager
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\BusinessManager.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/Integrations
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\Integrations.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/FINBusinessMarketplace
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\FINBusinessMarketplace.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/DisclosureCenter
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\DisclosureCenter.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/BusinessContinuity
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\BusinessContinuity.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/AffiliateProgram
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\AffiliateProgram.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/CyberReview
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\CyberReview.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/PricingB
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\PricingB.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/ContactB
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\ContactB.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/SignUp
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\SignUp.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/Login
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\Login.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/DisclosureHeader
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\DisclosureHeader.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/AdvisorDirectory
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\AdvisorDirectory.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/FeaturesB
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\FeaturesB.html
+Content Type: text/html
+
+Uri: https://www.fincomplianceblog.com/
+File Name: D:\Downloaded Web Sites\fincompliance.io\index-1.htm
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/ContinuityPolicy
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\ContinuityPolicy.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/PrivacyPolicyB
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\PrivacyPolicyB.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Home/DisclaimersB
+File Name: D:\Downloaded Web Sites\fincompliance.io\Home\DisclaimersB.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/FINCompliance
+File Name: D:\Downloaded Web Sites\fincompliance.io\FINCompliance.html
+Content Type: text/html
+
+Uri: https://twitter.com/complianceFIN
+File Name: D:\Downloaded Web Sites\fincompliance.io\complianceFIN.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Brochure
+File Name: D:\Downloaded Web Sites\fincompliance.io\FIN Compliance Brochure (2021).pdf
+Content Type: application/docx
+
+Uri: https://twitter.com/ComplianceFin?ref_src=twsrc^tfw
+File Name: D:\Downloaded Web Sites\fincompliance.io\ComplianceFin-1.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-93338344-5
+File Name: D:\Downloaded Web Sites\fincompliance.io\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://code.jivosite.com/widget/s9Q4iFyH7R
+File Name: D:\Downloaded Web Sites\fincompliance.io\widget\s9Q4iFyH7R.js
+Content Type: application/javascript
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/logos/logo.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\logos\logo.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/mobile dashboard.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\mobile dashboard.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/devices.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\devices.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Dashboard.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Dashboard.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/manager.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\manager.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/mobile.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\mobile.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/marketplace.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\marketplace.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/logos/ria-consults-logo.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\logos\ria-consults-logo.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/logos/ria-review-logo.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\logos\ria-review-logo.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/logos/FIN-Disclosure-Multi-Color.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\logos\FIN-Disclosure-Multi-Color.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/logos/ria-finlancer-logo.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\logos\ria-finlancer-logo.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/logos/FINCybersecurityLogo.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\logos\FINCybersecurityLogo.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/logos/FINContinuityLogo.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\logos\FINContinuityLogo.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/NAPFA.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\NAPFA.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/AAAALogo.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\AAAALogo.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/AtlasPark.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\AtlasPark.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/EliteViviant.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\EliteViviant.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/DelveRiskSolutions.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\DelveRiskSolutions.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/allan-boomer-photo.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\allan-boomer-photo.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/scott-schwartz-photo.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\scott-schwartz-photo.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/k-daniels-photo.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\k-daniels-photo.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/books.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\books.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/cogs.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\cogs.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/audit.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\audit.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/disclosures.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\disclosures.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/filings.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\filings.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/checklist.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\checklist.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/matching.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\matching.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/partners.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\partners.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/marketing.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\marketing.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fincompliance.io/Content/fincompliance2021/js/videopopup.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\js\videopopup.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\popper.js\1.12.9\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\npm\bootstrap@4.5.2\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\select2\4.0.13\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\bxslider\4.2.15\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\OwlCarousel2\2.2.1\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\magnific-popup.js\1.1.0\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://fincompliance.io/Content/fincompliance2021/js/custom.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\js\custom.js
+Content Type: application/javascript
+
+Uri: https://fincompliance.io/Content/fincompliance2021/js/jquery-custom.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\js\jquery-custom.js
+Content Type: application/javascript
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/iconmoon/fonts/icomoon.eot?r2ceqn
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\iconmoon\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/iconmoon/fonts/icomoon.ttf?r2ceqn
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\iconmoon\fonts\icomoon.ttf
+Content Type: application/octet-stream
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/iconmoon/fonts/icomoon.woff?r2ceqn
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\iconmoon\fonts\icomoon.woff
+Content Type: font/x-woff
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/iconmoon/fonts/icomoon.svg?r2ceqn
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\iconmoon\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/MainBackground.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\MainBackground.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/MainBackgroundOne.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\MainBackgroundOne.jpg
+Content Type: image/jpeg
+
+Uri: https://www.facebook.com/FINCompliance/
+File Name: D:\Downloaded Web Sites\fincompliance.io\FINCompliance\index.htm
+Content Type: text/html
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/cory-photo.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\cory-photo.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/davidmcneal.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\davidmcneal.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/kerryjordan.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\kerryjordan.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/susanguo.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\susanguo.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/affiliate-image.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\affiliate-image.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/waypoints/js/waypoints.min.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\waypoints\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/counterup/js/counterup.min.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\counterup\js\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.amazon.com/Student-Entrepreneur-Making-Transition-Business-ebook/dp/B014K2TRKM/ref=sr_1_2?keywords=From+Student+to+Entrepreneur+Cory+Roberson&qid=1558462711&s=gateway&sr=8-2
+File Name: D:\Downloaded Web Sites\fincompliance.io\Student-Entrepreneur-Making-Transition-Business-ebook\dp\B014K2TRKM\ref=sr_1_2.html
+Content Type: text/html
+
+Uri: https://www.amazon.com/Student-Entrepreneur-Making-Transition-Business-ebook/dp/B014K2TRKM/ref=sr_1_1?dchild=1&keywords=From+Student+to+Entrepreneur+Cory+Roberson&qid=1619469946&sr=8-1
+File Name: D:\Downloaded Web Sites\fincompliance.io\Student-Entrepreneur-Making-Transition-Business-ebook\dp\B014K2TRKM\ref=sr_1_1.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/pic03.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\pic03.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/3.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\3.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/4.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\4.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/5.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\5.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/6.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\6.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/7.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\7.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/8.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\8.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/9.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\9.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/12.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\12.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/1.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\1.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/2.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\2.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/13.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\13.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/11.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\11.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/10.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\10.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/0.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\0.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/15.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\15.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/finmissions/pic02.jpg
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\finmissions\pic02.jpg
+Content Type: image/jpeg
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Registration Page.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Registration Page.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/checkout page.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\checkout page.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/compliance manager dashboard.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\compliance manager dashboard.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Consulting - Technology Stack.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Consulting - Technology Stack.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/css/modal-video.min.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\css\modal-video.min.css
+Content Type: text/css
+
+Uri: https://fincompliance.io/Content/fincompliance2021/js/modal-video.min.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\js\modal-video.min.js
+Content Type: application/javascript
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/2021Calendar.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\2021Calendar.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Procedures.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Procedures.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Checklists.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Checklists.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Compliance Manager - Forms.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Compliance Manager - Forms.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Compliance Manager - Di-minimis.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Compliance Manager - Di-minimis.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/DisclosurePortal.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\DisclosurePortal.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Compliance Manager - Review Center.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Compliance Manager - Review Center.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Compliance Manager- Cloud Directory.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Compliance Manager- Cloud Directory.png
+Content Type: image/png
+
+Uri: https://platform.twitter.com/widgets.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\widgets.js
+Content Type: application/javascript
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/business manager - client center.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\business manager - client center.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/business mgr - project center.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\business mgr - project center.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/business manager - document center.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\business manager - document center.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/FirmDirectory.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\FirmDirectory.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/BusinessManagerOffers.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\BusinessManagerOffers.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/business manager - e-signature.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\business manager - e-signature.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/google-cloud.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\google-cloud.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/zapier.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\zapier.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/approve-me.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\approve-me.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/redtail.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\redtail.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/wealthbox.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\wealthbox.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/calendly.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\calendly.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/morningstar.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\morningstar.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/docusign.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\docusign.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/dropbox.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\dropbox.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/box.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\box.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/sharefile.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\sharefile.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/integrations/data-migration.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\integrations\data-migration.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Advisors-businesses.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Advisors-businesses.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/public-login.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\public-login.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/logos/playstore.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\logos\playstore.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/logos/appstore.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\logos\appstore.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/AppleQR.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\AppleQR.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/staff-login.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\staff-login.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\ajax\libs\OwlCarousel2\2.3.4\assets\owl.carousel.css
+Content Type: text/css
+
+Uri: https://fincompliance.io/ContinuityAssessment
+File Name: D:\Downloaded Web Sites\fincompliance.io\ContinuityAssessment.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/CybersecurityAssessment
+File Name: D:\Downloaded Web Sites\fincompliance.io\CybersecurityAssessment.html
+Content Type: text/html
+
+Uri: https://player.vimeo.com/video/588996422
+File Name: D:\Downloaded Web Sites\fincompliance.io\video\588996422.html
+Content Type: text/html
+
+Uri: https://player.vimeo.com/video/588998174
+File Name: D:\Downloaded Web Sites\fincompliance.io\video\588998174.html
+Content Type: text/html
+
+Uri: https://player.vimeo.com/video/588998233
+File Name: D:\Downloaded Web Sites\fincompliance.io\video\588998233.html
+Content Type: text/html
+
+Uri: https://player.vimeo.com/video/588998311
+File Name: D:\Downloaded Web Sites\fincompliance.io\video\588998311.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Business Continuity - Photo 2.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Business Continuity - Photo 2.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Business Continuity - Photo 1.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Business Continuity - Photo 1.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Cybersecurity Assessment.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Cybersecurity Assessment.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/logos/tab-icon-3.ico
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\logos\tab-icon-3.ico
+Content Type: image/x-icon
+
+Uri: https://www.youtube.com/embed/Mkvf6zzsJw8
+File Name: D:\Downloaded Web Sites\fincompliance.io\embed\Mkvf6zzsJw8.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/O5Ct1VYbkCA
+File Name: D:\Downloaded Web Sites\fincompliance.io\embed\O5Ct1VYbkCA.html
+Content Type: text/html
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/ia.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\ia.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/bd.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\bd.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/cybersecurity.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\cybersecurity.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/privatefund.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\privatefund.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/regulations.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\regulations.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/analytics.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\analytics.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/data-security.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\data-security.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/stack.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\stack.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/vendorduediligence.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\vendorduediligence.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/monitoring.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\monitoring.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/digitalize.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\digitalize.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/GlacierCybersecurity.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\GlacierCybersecurity.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/icons/moreinfo.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\icons\moreinfo.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/magnific-popup/css/magnific-popup.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\magnific-popup\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: D:\Downloaded Web Sites\fincompliance.io\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.paypal.com/sdk/js?client-id=ASanJdBASRn-tfKM8Jp6E2EmpVLuXDMerbowXUJUlVNgqNxO_EeNI1d45Exf-l9OIET_sEph-DyA5L3I&currency=USD
+File Name: D:\Downloaded Web Sites\fincompliance.io\sdk\js.js
+Content Type: application/javascript
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/bootstrap/css/bootstrap.min.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/select2/css/select2.min.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/font-awesome/css/font-awesome.min.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/owl-carousel/css/owl.carousel.min.css
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\owl-carousel\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://fincompliance.io/Account/ForgotPassword
+File Name: D:\Downloaded Web Sites\fincompliance.io\Account\ForgotPassword.html
+Content Type: text/html
+
+Uri: https://econtracts.fincompliance.io/
+File Name: D:\Downloaded Web Sites\fincompliance.io\index-2.htm
+Content Type: text/html
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/logos/logo2.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\logos\logo2.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Compliance Manager- Files Received.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Compliance Manager- Files Received.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Compliance Manager - Checklists.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Compliance Manager - Checklists.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/Compliance Manager - Disclosure Center.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\Compliance Manager - Disclosure Center.png
+Content Type: image/png
+
+Uri: https://fincompliance.io/Content/fincompliance2021/images/images/screenshots/business manager - offers.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\images\images\screenshots\business manager - offers.png
+Content Type: image/png
+
+Uri: https://www.redwhale.com/
+File Name: D:\Downloaded Web Sites\fincompliance.io\index-3.htm
+Content Type: text/html
+
+Uri: https://www.databasemart.com/hosting
+File Name: D:\Downloaded Web Sites\fincompliance.io\hosting.html
+Content Type: text/html
+
+Uri: https://business-continuity-test.netlify.app/
+File Name: D:\Downloaded Web Sites\fincompliance.io\index-4.htm
+Content Type: text/html
+
+Uri: https://cybersecurity-assessment.netlify.app/
+File Name: D:\Downloaded Web Sites\fincompliance.io\index-5.htm
+Content Type: text/html
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://fincompliance.io/Content/fincompliance2021/assets/owl-carousel/css/owl.video.play.png
+File Name: D:\Downloaded Web Sites\fincompliance.io\Content\fincompliance2021\assets\owl-carousel\css\owl.video.play.png
+Content Type: image/png
+
