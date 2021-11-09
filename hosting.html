@@ -1,576 +1,503 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
-    <meta name="robots" content="index,follow">
-    <meta name="keywords" content="Database hosting, Database cloud, Database as a service (DBaaS), Managed online databases, Cloud db hosting" />
-    <meta name="description" content="You can always find the right database hosting plan or web hosting plan within your budget in Database Mart. Click here to check right now!" />
-    <title>Your Different Hosting Choices | Database Mart</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+<meta name="robots" content="index,follow">
+<meta name="keywords" content="Database hosting, Database cloud, Database as a service (DBaaS), Managed online databases, Cloud db hosting" />
+<meta name="description" content="You can always find the right database hosting plan or web hosting plan within your budget in Database Mart. Click here to check right now!" />
+<title>Your Different Hosting Choices | Database Mart</title>
 
-    <link rel="icon" href="/img/vps-mart-icon.png" type="image/x-icon">
+<link rel="icon" href="/img/vps-mart-icon.png" type="image/x-icon">
 
-    <link rel="shortcut icon" href="/img/vps-mart-icon.png" type="image/x-icon">
-    <link rel="stylesheet" type="text/css" href="/plug-in/css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="/plug-in/font-awesome/css/font-awesome.min.css" />
-    <link rel="stylesheet" type="text/css" href="/plug-in/css/animate.css" />
-    <link rel="stylesheet" type="text/css" href="/css/databasemart.css?t=20190131113" />
-    <link rel="stylesheet" type="text/css" href="/css/databasemart-phone.css?t=201811131754" />
-    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
-    <style>
-        .h-p {
-            padding: 100px 0px;
-            background: #ffffff;
-        }
-        
-        .h-p:nth-of-type(even) {
-            background: #edf5f7;
-        }
-        
-        .h-p:nth-of-type(even) .h-p-info {
-            background: #f7fafb;
-        }
-        
-        .h-p-wrap-title {
-            font-size: 30px;
-            line-height: 34px;
-            margin-bottom: 25px;
-        }
-        
-        .h-p-wrap-text {
-            margin-top: -4px;
-            margin-left: auto;
-            margin-right: auto;
-            font-size: 18px;
-            line-height: 25px;
-            text-align: left;
-        }
-        
-        .h-p-wrap-img img {
-            width: 455px;
-            height: auto;
-        }
-        
-        @media (max-width:768px) {
-            .h-p-wrap-img>img {
-                width: 100%;
-                height: auto;
-            }
-        }
-        
-        .odd .h-p-wrap-img {
-            text-align: right;
-        }
-        
-        .even .h-p-wrap-img {
-            text-align: left;
-        }
-        
-        .h-p-wrap-des {
-            margin-top: 15px;
-        }
-        
-        .h-p-info {
-            position: relative;
-            margin-top: 20px;
-            margin-left: 0px;
-            shape-margin: 0px;
-            background: #f7fafb;
-            padding: 15px 15px;
-            border-radius: 4px;
-        }
-        
-        .h-p-info ul {
-            margin-left: 5px;
-        }
-        
-        .h-p-info li {
-            list-style: disc;
-            font-size: 15px;
-            line-height: 24px;
-            color: #6d6d6d;
-        }
-        
-        .h-p-b {
-            margin-top: 20px;
-        }
-        
-        .h-p-b a {
-            display: inline-block;
-            border-radius: 25px;
-            padding: 5px 30px;
-            transition: all linear 0.3s;
-            line-height: 30px;
-            border: none;
-            color: #FFFFFF;
-            background: linear-gradient(30deg, #12b9ab, #1f69ad);
-        }
-        
-        .h-p-b a:hover {
-            background: linear-gradient(30deg, #1fa1ad, #00346e);
-        }
-        
-        .nav-level2 {
-            position: relative;
-            background: linear-gradient(90deg, rgba(0, 20, 30, 0.3), rgba(0, 20, 30, 0.3));
-            margin-top: -60px;
-            height: 60px;
-            width: 100%;
-        }
-        
-        .nav-level2.absolute-top {
-            position: fixed;
-            top: 60px;
-            z-index: 10000;
-            background: #0a296c;
-        }
-        
-        .nav-level2 ul {
-            text-align: center;
-            white-space: nowrap;
-            font-size: 0px;
-            overflow-x: auto;
-        }
-        
-        .nav-level2 ul li {
-            color: rgba(255, 255, 255, 0.7);
-            cursor: pointer;
-            font-size: 16px;
-            display: inline-block;
-            vertical-align: top;
-            height: 60px;
-            line-height: 60px;
-            padding: 0px 30px;
-            transition: all linear 0.3s;
-        }
-        
-        .nav-level2 ul li.selected {
-            color: rgba(255, 255, 255, 1);
-            border-top: solid 2px rgba(255, 255, 255, 0.6);
-            background: rgba(255, 255, 255, 0.1);
-        }
-    </style>
-    <script async src='/cdn-cgi/bm/cv/669835187/api.js'></script>
-</head>
+<link rel="shortcut icon" href="/img/vps-mart-icon.png" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="/plug-in/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/plug-in/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="https://static.cloudclusters.io/fonts/proximanova/proxima.css" async />
+<link rel="stylesheet" type="text/css" href="/plug-in/css/animate.css" />
+<link rel="stylesheet" type="text/css" href="/css/position.css?t=20210527" />
+<link rel="stylesheet" type="text/css" href="/css/base.css?t=20210527" />
+<link rel="stylesheet" type="text/css" href="/css/databasemart-phone.css?t=201811131754" />
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" defer>
+<link rel="stylesheet" type="text/css" href="/css/nav.css" />
+<style>
+.h-p{
+    padding: 100px 0px;
+    background: #ffffff;    
+}
+.h-p:nth-of-type(even){
+    background: #edf5f7;
+}
+.h-p:nth-of-type(even) .h-p-info{
+    background: #f7fafb ;
+}
+.h-p-wrap-title{
+	font-size: 30px;
+    line-height: 34px;
+    margin-bottom: 25px;
+}
 
-<body data-spy="scroll" data-target="#guide" data-offset="50">
-    <section class="site-topbar">
-        <div class="container-fluid content-width">
-            <div class="row">
-                <div class="col-lg-12">
-                    <ul class="nav-top">
-                        <li><a href="https://portal.databasemart.com:443/Main/Chat/frmClientChat.aspx?config=1" target="_blank;" title="Chat with us! Database Mart"><i class="fa fa-commenting-o"></i> Online Chat</a></li>
-                        <li><a href="https://portal.databasemart.com/Main/frmNewTicket.aspx" title="Submit Database Mart Suport Ticket"><i class="fa fa-ticket"></i> Open Ticket</a></li>
-                        <li><a href="https://clients.databasemart.com/" title="Database Mart Billing System"><i class="fa fa-dollar"></i> Billing System</a></li>
-                        <li><a href="/control-panel" title="Database Mart Control Panel"><i class="fa fa-window-maximize"></i> Control Panel</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
+.h-p-wrap-text{
+    margin-top: -4px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: left;
+}
 
-    <nav class="nav-02">
-        <div class=" nav content-width">
-            <div class="logo">
-                <a href="/index.htm" title="Database Mart logo">
-                    <img id="logo-img" src="/img/logo-10.png" title="Database and Web Hosting Specialist | Database Mart" alt="Database Mart Logo" />
-                </a>
-            </div>
-            <ul class="navigation">
-                <li><a href="/index.htm" title="Database Mart Home Page">Home</a></li>
-                <li><a href="/hosting" title="Database and Web Hosting Choices">Hosting</a></li>
-                <li><a href="/solutions" title="Dedicated Windows Server Hosting Solutions">Solution</a></li>
-                <li><a href="/guide" title="user guide" target="_blank">User Guidance</a></li>
-                <li><a href="https://portal.databasemart.com/" title="Database Mart Support Center" target="_blank">Support</a></li>
-                <li><a href="/network" title="Database Mart Network and Data Center">Network</a></li>
-                <li><a href="/about" title="About Database Mart">About</a></li>
-            </ul>
-            <div class="three-line">
-                <i class="fa fa-bars"></i>
-            </div>
-        </div>
-    </nav>
-    <header class="opt2">
-        <!-- Start Navigation -->
-        <nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-fixed-top">
-            <div class="container">
-                <a class="navbar-brand col-6 col-sm-4 col-lg-3 p-2" href="/index.htm"><img id="NavbarLogo" src="../Content/fincompliance2021/images/logos/logo.png" class="img-fluid" alt=""></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-                    <ul class="navbar-nav  mr-auto">
-                        <li class="nav-item">
-                            <a class="nav-link topnav" href="/index.htm">Home</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link topnav dropdown-toggle" id="dropdown1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
-                            <div class="dropdown-menu megamenu minimenu" aria-labelledby="dropdown1">
-                                <div class="inner">
-                                    <ul>
-                                        <li>
-                                            <a class="dropdown-item" href="WhoWeAre.html">Who We Are</a>
-                                        </li>
-                                        <li><a class="dropdown-item" href="FAQB.html">FAQ</a></li>
-                                        <li><a class="dropdown-item" href="Impact.html">Impact</a>
-                                            <li>
-                                                <a class="dropdown-item" href="CaseStudies.html">Case Studies</a>
-                                            </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link topnav dropdown-toggle" id="dropdown1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
-                                <div class="dropdown-menu megamenu" aria-labelledby="dropdown1">
-                                    <div class="inner">
-                                        <ul>
-                                            <li>
-                                                <a class="dropdown-item" href="HowItWorksB.html">How It Works</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="ComplianceConsulting.html">Compliance Consulting</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="ComplianceManager.html">Compliance Manager</a>
-                                            </li>
+.h-p-wrap-img img{
+	width: 455px;
+    height: auto;    
+}
+@media (max-width:768px ) {
+	.h-p-wrap-img>img{
+		width: 100%;
+	    height: auto;    
+	}
+}
+.odd .h-p-wrap-img{
+	text-align: right;
+}
 
-                                            <li>
-                                                <a class="dropdown-item" href="BusinessManager.html">Business Manager</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="Integrations.html">Integrations</a>
-                                            </li>
+.even .h-p-wrap-img{
+	text-align: left;
+	
+}
 
-                                        </ul>
-                                        <ul>
-                                            <li>
-                                                <a class="dropdown-item" href="FINBusinessMarketplace.html">Business Marketplace</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="DisclosureCenter.html">Disclosure Center</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="BusinessContinuity.html">Business Continuity</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="AffiliateProgram.html">Affiliate Program</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link topnav" href="PricingB.html">Pricing</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link topnav" href="ContactB.html">Contact</a>
-                            </li>
-                    </ul>
-                    <ul class="navbar-right d-flex justify-content-center">
-                        <li><a href="signup.html">Signup</a></li>
-                        <li><a href="Login.html">Login</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <!-- End Navigation -->
-    </header>
-    <section class="nav-level2">
-        <ul>
-            <li class="">VPS Hosting</li>
-            <li class="">Dedicated Server Hosting</li>
-            <li class="">Shared Hosting</li>
-        </ul>
-    </section>
-    <section class="h-p odd">
-        <div class="content-width-01 container-fluid">
-            <div class="section-row row odd1">
-                <div class="col-md-5 col-sm-push-7">
-                    <div class="h-p-wrap-img">
-                        <img src="/img/index/products-08.png" alt="VPS Hosting">
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-sm-pull-5">
-                    <div class="h-p-wrap-des">
-                        <h2 class="h-p-wrap-title">VPS Hosting</h2>
-                        <p class="h-p-wrap-text">
-                            VPS hosting has recently been the most popular hosting service. It comes with inborn flexibility and security but costs lower than a dedicated server. If you want to take full advantage of computing resources and have the ability to manage the operating
-                            system, VPS is the best choice. Our VPSs are characterized by super-fast performance, hard security, cost efficiency, and pure/hybrid SSD solutions.
-                        </p>
-                    </div>
-                    <div class="h-p-b">
-                        <a href="http://www.hyper-v-mart.com/" title="VPS Hosting">More Details <i class="fa fa-arrow-circle-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="h-p even">
-        <div class="content-width-01 container-fluid">
-            <div class="section-row row odd1">
-                <div class="col-md-5">
-                    <div class="h-p-wrap-img">
-                        <img src="/img/index/products-09.png" alt="Dedicated Server">
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-sm-push-1">
-                    <div class="h-p-wrap-des">
-                        <h2 class="h-p-wrap-title">Dedicated Server Hosting</h2>
-                        <p class="h-p-wrap-text">
-                            In most cases, dedicated server hosting is a better solution than cloud hosting. Our dedicated servers are pure bare metals without any overhead of the virtualization layer, and with full IPMI direct access. This offers expert clients the highest flexibility
-                            and advanced management interface. We have a variety of dedicated server configurations from simple commodity servers to the state-of-the-art server clusters. Moreover, we support on-demand configuration to accommodate clients’
-                            various requirements.
-                        </p>
-                    </div>
-                    <div class="h-p-b">
-                        <a href="https://www.sqlservermart.com/dedicated" title="Dedicated Server Hosting">More Details <i class="fa fa-arrow-circle-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="h-p odd">
-        <div class="content-width container-fluid">
-            <div class="section-row row odd1">
-                <div class="col-sm-6 col-sm-push-6 col-xs-12">
-                    <div class="h-p-wrap-img">
-                        <img src="/img/index/shared-18.png" alt="Shared Hosting">
-                    </div>
-                </div>
-                <div class="col-sm-6 col-sm-pull-6 col-xs-12">
-                    <div class="h-p-wrap-des">
-                        <h2 class="h-p-wrap-title">Shared Hosting</h2>
-                        <p class="h-p-wrap-text">
-                            Web hosting landscape has changed dramatically since the dawning of the cloud era. However, shared hosting is still the best choice for small businesses and startups for its cost efficiency and simplicity. Anyone who wants to set up a website immediately
-                            can start with our shared hosting service and benefit from its advanced control panel, one-click application installer, pure SSD storage, and 30-day money-back guarantee.
-                        </p>
-                    </div>
-                    <div class="h-p-info row">
-                        <div class="col-md-6">
-                            <ul>
-                                <li>Simple & Powerful Control Panel</li>
-                                <li>One-Click Application Installer</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6">
-                            <ul>
-                                <li>24/7 Tech Support</li>
-                                <li>30-Day Money-Back Guarantee</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="h-p-b">
-                        <a href="https://www.sqlservermart.com/shared" title="Shared Hosting">More Details <i class="fa fa-arrow-circle-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="footer">
-        <div class="container-fluid content-width-01">
-            <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                    <h3><i class="fa fa-home"></i> Hosting Center</h3>
-                    <a title="Database Hosting Services" href="/hosting">Database Hosting Services</a>
-                    <a title="Enterprise Hosting Solutions" href="/solutions">Enterprise Hosting Solutions</a>
-                    <a title="Server Management Service" href="/management">Server Management Service</a>
-                    <a title="Domain Registration" href="/domain">Domain Registration</a>
-                    <a title="SSL Certificates" href="/ssl">SSL Certificates</a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                    <h3><i class="fa fa-users"></i> Support Center</h3>
-                    <a href="/guide" title="user guide" target="_blank">User Guidance</a>
-                    <a title="Helpdesk" href="https://portal.databasemart.com/">Helpdesk</a>
-                    <a title="Frequently Asked Questions" href="/faq">Frequently Asked Questions</a>
-                    <a title="Knowledgebase" href="https://portal.databasemart.com/kb/">Knowledgebase</a>
-                    <a title="Customer Billing System" href="https://clients.databasemart.com/">Client Billing System</a>
-                    <a title="Control Panel" href="/control-panel">Control Panel</a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                    <h3><i class="fa fa-database"></i> Information Center</h3>
-                    <a title="About Database Mart" href="/about">About Us</a>
-                    <a title="Why Choose Database Mart" href="/why">Why Choose Us</a>
-                    <a title="Client Testimonials for Database Mart" href="/testimonials">Client Testimonials</a>
-                    <a title="Network and Data Center" href="/network">Network and Data Center</a>
-                    <a title="Terms of Service" href="/tos">Terms of Service</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="payment">
-        <div class="container-fluid content-width-01">
-            <div class="row">
-                <h3 class="col-md-3 col-sm-12">Payment Accepted</h3>
-                <ul class="col-md-9 col-sm-12">
-                    <li title="Paypal"><i class="fa fa-cc-paypal"></i></li>
-                    <li title="Visa"><i class="fa fa-cc-visa"></i></li>
-                    <li title="MasterCard"><i class="fa fa-cc-mastercard"></i></li>
-                    <li title="American Express"><i class="fa fa-cc-amex"></i></li>
-                    <li title="JCB"><i class="fa fa-cc-jcb"></i></li>
-                    <li title="Discover"><i class="fa fa-cc-discover"></i></li>
-                    <li title="Diners Club"><i class="fa fa-cc-diners-club"></i></li>
-                    <li title="Wire Transfer"><i class="fa fa-credit-card"></i></li>
-                    <li title="Check"><i class="fa fa-file-o"></i><span>$</span></li>
-                </ul>
-            </div>
-        </div>
-    </section>
-    <section class="footer-02">
-        <div>
-            <p>Copyright © 2005 - 2019 <a href="https://www.databasemart.com/" title="Database Mart LLC">Database Mart LLC</a></p>
-            <p>257 Westwood Dr, League City, TX 77573</p>
-        </div>
-        <div class="other-site-link">
-            <a href="http://www.kubeclusters.com/" target="_blank" title="Fully Managed Kubernetes Hosting">Kubernetes Hosting</a> | <a href="http://www.vps-mart.com" target="_blank" title="VPS Hosting, Windows VPS, Linux VPS, Cheap VPS, Buy RDP">Windows	VPS Hosting</a>            | <a href="http://www.sqlservermart.com" target="_blank" title="SQL Server Hosting, SQL Database Hosting">SQL Server Hosting</a> | <a href="http://www.dotnetmart.com" target="_blank" title="ASP.NET Hosting, Windows Hosting, ASP.NET 4.0 Hosting">ASP.NET	Hosting</a>            | <a href="https://www.hyper-v-mart.com/" target="_blank" title="Windows Hyper-V Hosting">Hyper-V Hosting</a> | <a href="http://www.dedicatedsqlserver.com" target="_blank" title="Dedicated SQL Server Hosting">Dedicated SQL Server Hosting</a>            | <a href="http://www.dnnmart.com" target="_blank" title="DotNetNuke Hosting, DNN Hosting">DNN Hosting</a> | <a href="http://www.winservermart.com" target="_blank" title="Dedicated Windows Hosting">Dedicated Windows Hosting</a>
-            <br />
-            <a href="https://www.cockroachclusters.com/" target="_blank" title="Managed CockroachDB Hosting, Cheap CockroachDB as a Service" style="color:Gray;">CockroachDB Hosting</a> | <a href="https://www.sqlclusters.com/" target="_blank" title="Managed MySQL Cloud Hosting"
-                style="color:Gray;">MySQL Hosting</a> | <a href="https://www.mariaclusters.com/" target="_blank" title="Managed MariaDB Cloud Hosting" style="color:Gray;">MariaDB Hosting</a> | <a href="https://www.wp-clusters.com/" target="_blank" title="Managed Wordpress Cloud Hosting"
-                style="color:Gray;">Wordpress Hosting</a> | <a href="https://www.dp-clusters.com/" target="_blank" title="Drupal Hosting">Drupal Hosting</a> | <a href="https://www.mgtclusters.com/" target="_blank" title="Magento Hosting">Magento Hosting</a>            | <a href="https://www.pgsclusters.com/" target="_blank" title="PostgreSQL Hosting">PostgreSQL Hosting</a> | <a href="https://www.occlusters.com/" target="_blank" title="OpenCart Hosting">OpenCart Hosting</a> | <a href="https://www.redclusters.com/"
-                target="_blank" title="Redis Hosting">Redis Hosting</a> | <a href="https://www.mssqlclusters.com/" target="_blank" title="SQL Server Cloud Hosting">SQL Server Cloud Hosting</a> | <a href="https://www.db-clusters.com/" target="_blank" title="DBaas Hosting">DBaas Hosting</a>            | <a href="https://www.oraclusters.com/" target="_blank" title="Oracle Hosting">Oracle Hosting</a> | <a href="https://www.elastic-clusters.com/" target="_blank" title="Elasticsearch Hosting">Elasticsearch Hosting</a> | <a href="https://www.moclusters.com/"
-                target="_blank" title="Moodle Hosting">Moodle Hosting</a> | <a href="https://www.odclusters.com/" target="_blank" title="Odoo Hosting">Odoo Hosting</a>
-        </div>
-    </section>
-    <section class="use-cookies">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-sm-10">
-                    <h3>We use cookies to help optimize the website and give you the best experience. <a href="/privacy-policy">Privacy
-Policy</a></h3>
-                </div>
-                <div class="col-sm-2" style="text-align: center;">
-                    <input type="button" id="" value="I Agree" />
-                </div>
-            </div>
-        </div>
-    </section>
-    <script type="text/javascript">
-        (function() {
-            window['__CF$cv$params'] = {
-                r: '64d0b66a9d77d332',
-                m: 'a9cd3084767fdba97cd6231200a186881c4ffd22-1620623966-1800-AfdGEfstv/t0Ef2AlJnmfqUXEbji5C8iHd0YYv7tOHCCCZl6QEtSzgEqwSgVqUV47xYjAFNsU3O4pYDRlUZwHJWrRBGB/lyGnkKM8iOh6Xp2WVYuwVqyxfqP9j0El3EMdw==',
-                s: [0xb1eab58696, 0xceda4cfb14],
-            }
-        })();
-    </script>
-</body>
+.h-p-wrap-des{
+	margin-top: 15px;
+}
+
+.h-p-info{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 0px;
+    shape-margin: 0px;
+    background: #f7fafb;
+    padding: 15px 15px;
+    border-radius: 4px;
+}
+
+.h-p-info ul{
+    margin-left: 5px;
+}
+
+.h-p-info li{
+    list-style: disc;
+    font-size: 15px;
+    line-height: 24px;
+    color: #6d6d6d;
+}
+
+.h-p-b{
+    margin-top: 20px;
+
+}
+
+.h-p-b a{
+	display: inline-block;
+    border-radius: 25px;
+    padding: 5px 30px;
+    transition: all linear 0.3s;
+    line-height: 30px;
+    border: none;
+    color: #FFFFFF;
+    background: linear-gradient(30deg,#12b9ab,#1f69ad);
+}
+.h-p-b a:hover{
+	background: linear-gradient(30deg,#1fa1ad,#00346e);
+}
+
+.nav-level2{
+	position: relative;
+	background: linear-gradient(90deg,rgba(0,20,30,0.3),rgba(0,20,30,0.3));
+	margin-top: -60px;
+	height: 60px;
+	width: 100%;
+}
+.nav-level2.absolute-top{
+	position: fixed;
+	top:60px;
+	z-index: 10000;
+	background: #0a296c;
+}
+.nav-level2 ul{
+	text-align: center;
+	white-space: nowrap;
+	font-size: 0px;
+	overflow-x: auto;
+}
+.nav-level2 ul li{
+	color: rgba(255,255,255,0.7);
+	cursor: pointer;
+	font-size: 16px;
+	display: inline-block;
+	vertical-align: top;
+	height: 60px;
+	line-height: 60px;
+	padding: 0px 30px;
+	transition: all linear 0.3s;
+}
+.nav-level2 ul li.selected{
+	color: rgba(255,255,255,1);
+	border-top: solid 2px rgba(255,255,255,0.6);
+	background: rgba(255,255,255,0.1);
+}
+</style>
 <script src="/plug-in/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://static.cloudclusters.io/jquery/plugin/jquery.lazyload.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script async src='/cdn-cgi/challenge-platform/h/b/scripts/invisible.js'></script></head>
+<body data-spy="scroll" data-target="#guide" data-offset="50">
+<section class="site-topbar ">
+<div class="container-fluid content-width">
+<div class="row">
+<div class="col-lg-12">
+<ul class="nav-top">
+<li><a href="https://portal.databasemart.com:443/Main/Chat/frmClientChat.aspx?config=1" target="_blank;" title="Chat with us! Database Mart"><i class="fa fa-commenting-o"></i> Online Chat</a></li>
+<li><a href="https://portal.databasemart.com/Main/frmNewTicket.aspx" title="Submit Database Mart Suport Ticket"><i class="fa fa-ticket"></i> Open Ticket</a></li>
+<li><a href="https://clients.databasemart.com/" title="Database Mart Billing System"><i class="fa fa-dollar"></i> Billing System</a></li>
+<li><a href="/control-panel" title="Database Mart Control Panel"><i class="fa fa-window-maximize"></i> Control Panel</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+
+<nav class="nav-02 ">
+<div class=" nav content-width">
+<div class="logo">
+<a href="/" title="Database Mart logo">
+<img id="logo-img" src="/img/logo-10.png" title="Database and Web Hosting Specialist | Database Mart" alt="Database Mart Logo" />
+</a>
+</div>
+<ul class="navigation">
+<li><a href="/" title="Database Mart Home Page">Home</a></li>
+<li><a href="/hosting" title="Database and Web Hosting Choices">Hosting</a></li>
+<li><a href="/data-center" title="Database Mart Network and Data Center">Data Centers</a></li>
+
+<li><a href="/guide" title="user guide" target="_blank">User Guidance</a></li>
+<li><a href="https://portal.databasemart.com/" title="Database Mart Support Center" target="_blank">Support</a></li>
+<li><a href="/about" title="About Database Mart">About Us</a></li>
+<li><a href="/affiliate" title="Recommend Users">Affiliate</a></li>
+</ul>
+<div class="three-line">
+<i class="fa fa-bars"></i>
+</div>
+</div>
+</nav>
+<header class="hosting">
+<div class="container-fluid content-width">
+<h1>Your Different Hosting Choices</h1>
+<p class="text-center">Various database hosting & web hosting plans with strong security, high performance, reasonable prices, 24/7/365 technical support and more...</p>
+</div>
+</header>
+<section class="nav-level2">
+<ul>
+<li class="">VPS Hosting</li>
+<li class="">Dedicated Server Hosting</li>
+<li class="">Shared Hosting</li>
+</ul>
+</section>
+<section class="h-p odd">
+<div class="content-width-01 container-fluid">
+<div class="section-row row odd1">
+<div class="col-md-5 col-sm-push-7">
+<div class="h-p-wrap-img">
+<img src="/img/index/products-08.png" alt="VPS Hosting">
+</div>
+</div>
+<div class="col-md-6 col-sm-6 col-sm-pull-5">
+<div class="h-p-wrap-des">
+<h2 class="h-p-wrap-title">VPS Hosting</h2>
+<p class="h-p-wrap-text">
+VPS hosting has recently been the most popular hosting service. It comes with inborn flexibility and security but costs lower than a dedicated server. If you want to take full advantage of computing resources and have the ability to manage the operating system, VPS is the best choice. Our VPSs are characterized by super-fast performance, hard security, cost efficiency, and pure/hybrid SSD solutions.
+</p>
+</div>
+<div class="h-p-b">
+<a href="http://www.hyper-v-mart.com/" title="VPS Hosting">More Details <i class="fa fa-arrow-circle-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="h-p even">
+<div class="content-width-01 container-fluid">
+<div class="section-row row odd1">
+<div class="col-md-5">
+<div class="h-p-wrap-img">
+<img src="/img/index/products-09.png" alt="Dedicated Server">
+</div>
+</div>
+<div class="col-md-6 col-sm-6 col-sm-push-1">
+<div class="h-p-wrap-des">
+<h2 class="h-p-wrap-title">Dedicated Server Hosting</h2>
+<p class="h-p-wrap-text">
+In most cases, dedicated server hosting is a better solution than cloud hosting. Our dedicated servers are pure bare metals without any overhead of the virtualization layer, and with full IPMI direct access. This offers expert clients the highest flexibility and advanced management interface. We have a variety of dedicated server configurations from simple commodity servers to the state-of-the-art server clusters. Moreover, we support on-demand configuration to accommodate clients’ various requirements.
+</p>
+</div>
+<div class="h-p-b">
+<a href="https://www.sqlservermart.com/dedicated" title="Dedicated Server Hosting">More Details <i class="fa fa-arrow-circle-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="h-p odd">
+<div class="content-width container-fluid">
+<div class="section-row row odd1">
+<div class="col-sm-6 col-sm-push-6 col-xs-12">
+<div class="h-p-wrap-img">
+<img src="/img/index/shared-18.png" alt="Shared Hosting">
+</div>
+</div>
+<div class="col-sm-6 col-sm-pull-6 col-xs-12">
+<div class="h-p-wrap-des">
+<h2 class="h-p-wrap-title">Shared Hosting</h2>
+<p class="h-p-wrap-text">
+Web hosting landscape has changed dramatically since the dawning of the cloud era. However, shared hosting is still the best choice for small businesses and startups for its cost efficiency and simplicity. Anyone who wants to set up a website immediately can start with our shared hosting service and benefit from its advanced control panel, one-click application installer, pure SSD storage, and 30-day money-back guarantee.
+</p>
+</div>
+<div class="h-p-info row">
+<div class="col-md-6">
+<ul>
+<li>Simple & Powerful Control Panel</li>
+<li>One-Click Application Installer</li>
+</ul>
+</div>
+<div class="col-md-6">
+<ul>
+<li>24/7 Tech Support</li>
+<li>30-Day Money-Back Guarantee</li>
+</ul>
+</div>
+</div>
+<div class="h-p-b">
+<a href="https://www.sqlservermart.com/shared" title="Shared Hosting">More Details <i class="fa fa-arrow-circle-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="footer">
+<div class="container-fluid content-width-01 ">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-4">
+<h3><i class="fa fa-home"></i> Hosting Center</h3>
+<a title="Database Hosting Services" href="/hosting">Database Hosting Services</a>
+
+<a title="Server Management Service" href="/management">Server Management Service</a>
+<a title="Domain Registration" href="/domain">Domain Registration</a>
+<a title="SSL Certificates" href="/ssl">SSL Certificates</a>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+<h3><i class="fa fa-users"></i> Support Center</h3>
+<a href="/guide" title="user guide" target="_blank">User Guidance</a>
+<a title="Helpdesk" href="https://portal.databasemart.com/">Helpdesk</a>
+<a title="Frequently Asked Questions" href="/guide/general-questions">Frequently Asked Questions</a>
+<a title="Knowledgebase" href="https://portal.databasemart.com/kb/">Knowledgebase</a>
+<a title="Customer Billing System" href="https://clients.databasemart.com/">Client Billing System</a>
+<a title="Control Panel" href="/control-panel">Control Panel</a>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+<h3><i class="fa fa-database"></i> Information Center</h3>
+<a title="About Database Mart" href="/about">About Us</a>
+<a title="Why Choose Database Mart" href="/why">Why Choose Us</a>
+<a title="Client Testimonials for Database Mart" href="/testimonials">Client Testimonials</a>
+<a title="Network and Data Center" href="/data-center">Data Center</a>
+<a title="Terms of Service" href="/tos">Terms of Service</a>
+<a title="Server Status" href="/serverstatus">Server Status</a>
+</div>
+</div>
+</div>
+</section>
+<section class="payment">
+<div class="container-fluid content-width-01 ">
+<div class="row">
+<h3 class="col-md-3 col-sm-12">Payment Accepted</h3>
+<ul class="col-md-9 col-sm-12">
+<li title="Paypal"><i class="fa fa-cc-paypal"></i></li>
+<li title="Visa"><i class="fa fa-cc-visa"></i></li>
+<li title="MasterCard"><i class="fa fa-cc-mastercard"></i></li>
+<li title="American Express"><i class="fa fa-cc-amex"></i></li>
+<li title="JCB"><i class="fa fa-cc-jcb"></i></li>
+<li title="Discover"><i class="fa fa-cc-discover"></i></li>
+<li title="Diners Club"><i class="fa fa-cc-diners-club"></i></li>
+<li title="Wire Transfer"><i class="fa fa-credit-card"></i></li>
+<li title="Check"><i class="fa fa-file-o"></i><span>$</span></li>
+</ul>
+</div>
+</div>
+</section>
+<section class="footer-02">
+<div>
+<p>Copyright © 2005 - 2019 <a href="https://www.databasemart.com/" title="Database Mart LLC">Database Mart LLC</a></p>
+<p>257 Westwood Dr, League City, TX 77573</p>
+</div>
+<div class="other-site-link">
+<a href="http://www.kubeclusters.com/" target="_blank" title="Fully Managed Kubernetes Hosting">Kubernetes Hosting</a>
+| <a href="http://www.vps-mart.com" target="_blank" title="VPS Hosting, Windows VPS, Linux VPS, Cheap VPS, Buy RDP">Windows	VPS Hosting</a>
+| <a href="http://www.sqlservermart.com" target="_blank" title="SQL Server Hosting, SQL Database Hosting">SQL Server Hosting</a>
+| <a href="http://www.dotnetmart.com" target="_blank" title="ASP.NET Hosting, Windows Hosting, ASP.NET 4.0 Hosting">ASP.NET	Hosting</a>
+| <a href="https://www.hyper-v-mart.com/" target="_blank" title="Windows Hyper-V Hosting">Hyper-V Hosting</a>
+| <a href="http://www.dedicatedsqlserver.com" target="_blank" title="Dedicated SQL Server Hosting">Dedicated SQL Server Hosting</a>
+| <a href="http://www.dnnmart.com" target="_blank" title="DotNetNuke Hosting, DNN Hosting">DNN Hosting</a>
+| <a href="http://www.winservermart.com" target="_blank" title="Dedicated Windows Hosting">Dedicated Windows Hosting</a>
+<br />
+<a href="https://www.cclusters.com/" target="_blank" title="Managed CockroachDB Hosting, Cheap CockroachDB as a Service" style="color:Gray;">CockroachDB Hosting</a>
+| <a href="https://www.sqlclusters.com/" target="_blank" title="Managed MySQL Cloud Hosting" style="color:Gray;">MySQL Hosting</a>
+| <a href="https://www.maclusters.com/" target="_blank" title="Managed MariaDB Cloud Hosting" style="color:Gray;">MariaDB Hosting</a>
+| <a href="https://www.wp-clusters.com/" target="_blank" title="Managed Wordpress Cloud Hosting" style="color:Gray;">Wordpress Hosting</a>
+| <a href="https://www.dp-clusters.com/" target="_blank" title="Drupal Hosting">Drupal Hosting</a>
+| <a href="https://www.mgtclusters.com/" target="_blank" title="Magento Hosting">Magento Hosting</a>
+| <a href="https://www.pgsclusters.com/" target="_blank" title="PostgreSQL Hosting">PostgreSQL Hosting</a>
+| <a href="https://www.occlusters.com/" target="_blank" title="OpenCart Hosting">OpenCart Hosting</a>
+| <a href="https://www.rclusters.com/" target="_blank" title="Redis Hosting">Redis Hosting</a>
+| <a href="https://www.msclusters.com/" target="_blank" title="SQL Server Cloud Hosting">SQL Server Cloud Hosting</a>
+| <a href="https://www.db-clusters.com/" target="_blank" title="DBaas Hosting">DBaas Hosting</a>
+| <a href="https://www.oclusters.com/" target="_blank" title="Oracle Hosting">Oracle Hosting</a>
+| <a href="https://www.esclusters.com/" target="_blank" title="Elasticsearch Hosting">Elasticsearch Hosting</a>
+| <a href="https://www.moclusters.com/" target="_blank" title="Moodle Hosting">Moodle Hosting</a>
+| <a href="https://www.odclusters.com/" target="_blank" title="Odoo Hosting">Odoo Hosting</a>
+| <a href="https://www.caclusters.com/" target="_blank" title="Cassandra Hosting">Cassandra Hosting</a>
+| <a href="https://www.pclusters.com/" target="_blank" title="Prometheus Hosting">Prometheus Hosting</a>
+</div>
+</section>
+<section class="use-cookies">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-10">
+<h3>We use cookies to help optimize the website and give you the best experience. <a href="/privacy-policy">Privacy
+Policy</a></h3>
+</div>
+<div class="col-sm-2" style="text-align: center;">
+<input type="button" id="" value="I Agree" />
+</div>
+</div>
+</div>
+</section>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6ab315b1ba31eb3d',m:'dEjj3.Lr5tPjzLfpTeUXueBgX4CyLfI0ngfkBYtR6Vc-1636419423-0-AT9XO3dU6HaLHM+zRleGCuAC+lrb65ugDIeGaT8h5XJseFhNs58ovBLK4mQOw9Fu2l0wUJXPZhgrbYHu+IsSYhZIxA+GHrMYjmXKSsfccIY+MpksbqiRgFNv3fBPSTJNVA==',s:[0xa81bf629d6,0xc14a5ff323],u:'/cdn-cgi/challenge-platform/h/b'}})();</script></body>
 <script src="/plug-in/js/jquery.cookie.js" type="text/javascript" charset="utf-8"></script>
 <script src="/plug-in/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="/js/databasemart.js?t=20181131754" type="text/javascript" charset="utf-8"></script>
-<script>
-    //login js and sign up js, 
-    // the domain variable can't accessiable in js file, so put the
-    // script in base page
-    $(document).ready(function() {
-        var callback_url = window.location.href;
-        var domain_url = 'https://accounts.cloudclusters.io';
-        var login_url = domain_url + "/login/?next=" + callback_url;
-        var logout_url = domain_url + "/logout/?next=" + callback_url;
-        var signup_url = domain_url + "/signup/?next=" + callback_url;
-        var pageURL = window.location.pathname;
-        var navBtn = $('.navigation a');
-
-        $(".login").on('click', function() {
-            window.location.href = login_url;
-        });
-        $('.signup,#SIGNUP,#SIGN_UP').on('click', function() {
-            window.location.href = signup_url;
-        });
-        $(".logout").on('click', function() {
-            //delelte
-            $.cookie('token', null, {
-                path: "/",
-                domain: window.location.hostname
-            });
-            window.location.href = logout_url;
-        });
-        // var plans=function(){
-        // 	$('.order-plan').on('click', function () {    		
-        // 		window.location.href = $(this).attr('data-order');
-        // 	});
-        // }
-        // plans();
-
-        // var goDetail=function(){
-        // 	$('.detail-plan').on('click', function () {    		
-        // 		window.location.href = '/' + $(this).attr('data-detail');
-        // 	});
-        // }
-        // goDetail();
-
-        navBtn.each(function(i) {
-            var $thisURL = $(this).attr('href');
-            if ($thisURL === pageURL) {
-                $(this).addClass('active');
-            }
-        });
-
-        $('#products').on('click', function() {
-            $('ul.navigation>li>a>i').trigger('click');
-        });
-        //      $('#black-friday').css('display','flex');
-        //      $('.bf-close').on('click',function(){
-        //      	$('#black-friday').css('display','none');
-        //      	$('#black-friday-small').css('display','flex');
-        //      });
-
-
-    })
+<script type="text/javascript">
+	$("img.lazy").lazyload({effect: "fadeIn",threshold: 200,placeholder : "/img/imgHolder.png"});
 </script>
 <script>
-    (function() {
-        var c = document.createElement('script');
-        c.type = 'text/javascript';
-        c.async = true;
-        c.src = "https://portal.databasemart.com/ChatLink.ashx?config=1&id=stlivechat0";
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(c, s);
-    })();
+	//login js and sign up js, 
+	// the domain variable can't accessiable in js file, so put the
+	// script in base page
+	$(document).ready(function () {
+		var callback_url = window.location.href;
+		var domain_url = 'https://accounts.cloudclusters.io';
+		var login_url = domain_url + "/login/?next=" + callback_url;
+		var logout_url = domain_url + "/logout/?next=" + callback_url;
+		var signup_url = domain_url + "/signup/?next=" + callback_url;
+		var pageURL = window.location.pathname;
+		var navBtn = $('.navigation a');
+
+		$(".login").on('click', function () {
+			window.location.href = login_url;
+		});
+		$('.signup,#SIGNUP,#SIGN_UP').on('click', function () {
+			window.location.href = signup_url;
+		});
+		$(".logout").on('click', function () {
+			//delelte
+			$.cookie('token', null, {
+				path: "/",
+				domain: window.location.hostname
+			});
+			window.location.href = logout_url;
+		});
+		// var plans=function(){
+		// 	$('.order-plan').on('click', function () {    		
+		// 		window.location.href = $(this).attr('data-order');
+		// 	});
+		// }
+		// plans();
+
+		// var goDetail=function(){
+		// 	$('.detail-plan').on('click', function () {    		
+		// 		window.location.href = '/' + $(this).attr('data-detail');
+		// 	});
+		// }
+		// goDetail();
+
+		navBtn.each(function (i) {
+			var $thisURL = $(this).attr('href');
+			if ($thisURL === pageURL) {
+				$(this).addClass('active');
+			}
+		});
+
+		$('#products').on('click', function () {
+			$('ul.navigation>li>a>i').trigger('click');
+		});
+//      $('#black-friday').css('display','flex');
+//      $('.bf-close').on('click',function(){
+//      	$('#black-friday').css('display','none');
+//      	$('#black-friday-small').css('display','flex');
+//      });
+
+
+	})
 </script>
 <script>
-    $(document).ready(function() {
+	(function () {
+		var c = document.createElement('script');
+		c.type = 'text/javascript';
+		c.async = true;
+		c.src = "https://portal.databasemart.com/ChatLink.ashx?config=1&id=stlivechat0";
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(c, s);
+	})();
+
+
+
+</script>
+<script>
+$(document).ready(function(){
         var Floor = [];
 
-        for (var i = 0; i < $('.h-p').length; i++) {
-            Floor.push(Math.floor($('.h-p').eq(i).offset().top));
+        for(var i=0; i<$('.h-p').length; i++){
+                Floor.push( Math.floor($('.h-p').eq(i).offset().top) );
         }
 
-        $(window).on('scroll', function() {
+ 	$(window).on('scroll',function(){
 
-            var move = Math.floor($(window).scrollTop());
+                var move = Math.floor($(window).scrollTop());
 
-            for (i = 0; i < $('.h-p').length; i++) {
+                for(i=0;i<$('.h-p').length;i++){
 
-                if (move < Floor[0]) {
-                    $('.nav-level2').removeClass('absolute-top');
-                } else {
-                    if (move >= Floor[i] && move < Floor[i + 1]) {
-                        $('.nav-level2').addClass('absolute-top');
-                        $('.nav-level2 ul li').eq(i).addClass('selected').siblings().removeClass('selected');
-                    } else if (move > Floor[Floor.length - 1]) {
-                        $('.nav-level2 ul li').eq(Floor.length - 1).addClass('selected').siblings().removeClass('selected');
+                    if( move < Floor[0]){
+                        $('.nav-level2').removeClass('absolute-top');
+                    }else{
+                        if(move >= Floor[i] && move < Floor[i+1]){
+                            $('.nav-level2').addClass('absolute-top');
+                            $('.nav-level2 ul li').eq(i).addClass('selected').siblings().removeClass('selected');
+                        }else if (move > Floor[Floor.length -1]){
+                            $('.nav-level2 ul li').eq(Floor.length -1).addClass('selected').siblings().removeClass('selected');   
+                        }
                     }
                 }
-            }
 
-        });
-
-        function srolltop(i) {
-            $('.nav-level2 ul li').eq(i).bind('click', function() {
-                $(this).addClass('selected').siblings().removeClass('selected');
-                $('body,html').animate({
-                    scrollTop: Floor[$(this).index()] + 5
-                }, 1000);
-            });
-            return false;
-        };
-
-        for (var i = $('.nav-level2 ul li').length - 1; i >= 0; i--) {
-            srolltop(i);
-        };
-    })
+	});
+	
+	function srolltop(i){
+		$('.nav-level2 ul li').eq(i).bind('click',function(){
+                        $(this).addClass('selected').siblings().removeClass('selected');
+			$('body,html').animate({
+				scrollTop: Floor[$(this).index()] + 5
+			},1000);
+		});                
+                return false;
+	};
+	
+	for(var i=$('.nav-level2 ul li').length-1;i>=0;i--){
+                srolltop(i);
+	};
+})
 </script>
-
 </html>
