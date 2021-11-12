@@ -1,4 +1,5 @@
 ﻿<!DOCTYPE html>
+<html>
 <!-- Copied from https://fincompliance.io/ by Cyotek WebCopy 1.8.3.768, Tuesday, November 9, 2021, 11:36:15 PM -->
 
 <head>
@@ -986,8 +987,8 @@
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="../Content/fincompliance2021/js/videopopup.js"></script>
-    <!-- Popper JS -->
+    <!-- Popper JS --><script src='https://d33wubrfki0l68.cloudfront.net/js/3e1d23b238d91fa21e967d4cba4f33640d6f9201/content/fincompliance2021/js/videopopup.js'></script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <!-- Bootsrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"></script>
@@ -1000,27 +1001,9 @@
     <!-- Video Popup JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 
-    <!-- Custom JS -->
-    <script src="/Content/fincompliance2021/js/custom.js"></script>
-    <script src="/Content/fincompliance2021/js/jquery-custom.js"></script>
-    <script type="text/javascript">
-        $(function () {
-            if (document.cookie.indexOf("cookies") < 0) {
-                $('#cookie-consent').slideDown('slow');
-            }
-            $('#consent').on('click', function () {
-                $('#cookie-consent').slideUp('slow');
-                $.ajax({
-                    type: "POST",
-                    url: '/Home/AddConsentCookie',
-                    contentType: "application/json;",
-                    success: function (response) {
-                        console.log("Consent cookie recorded");
-                    },
-                });
-            });
-        });
-    </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+<!-- Custom JS -->
+<script src='https://d33wubrfki0l68.cloudfront.net/bundles/453927f2c65428fa2f0510d715ab71c3eac9a33e.js'></script>
 </body>
 
 </html>
