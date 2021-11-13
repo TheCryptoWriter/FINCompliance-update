@@ -68,7 +68,7 @@ h6 {
     padding: 0px;
     margin: 0px;
     font-family: 'Arial', sans-serif;
-    color: #00324c;
+    color: #000000;
 }
 
 h1 {
@@ -106,7 +106,7 @@ p {
     padding: 0px;
     margin: 0px;
     font-family: 'Arial', sans-serif;
-    color: #687377;
+    color: #000000;
 }
 
     p.large {
@@ -141,7 +141,7 @@ ol {
 }
 
     ol li {
-        color: #687377;
+        color: #000000;
         font-size: 14px;
     }
 
