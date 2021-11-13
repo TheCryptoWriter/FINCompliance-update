@@ -3,13 +3,13 @@ Template Name:	Protech saas
 Template URI: 	http://protechtheme.com/saas/
 Author: protechtheme
 -------------------------------------------------------------------------------------*/
+*/
 
-
-/**
+/*
 *****************************************
 @File: saas Template Styles
 
-* This file contains the styling for the actual Template,
+This file contains the styling for the actual Template,
 this is the file you need to edit to change the look of the Template.
 
 01. General Style
@@ -44,7 +44,7 @@ this is the file you need to edit to change the look of the Template.
 
 	
 *****************************************
-**/
+*/
 
 
 /* ================================================== */
@@ -57,6 +57,7 @@ this is the file you need to edit to change the look of the Template.
 
 
 /*---Typography---*/
+
 
 h1,
 h2,
@@ -7031,31 +7032,9 @@ ul.our-values li .text-area p {
 
     .info-contact-box li {
         display: block;
-        padding: 5px 0 15px 35px;
+        padding: 5px 0 15px 25px;
         position: relative;
     }
-
-        .info-contact-box li:before {
-            position: absolute;
-            left: 0;
-            top: 0;
-            content: "";
-            font-family: 'Arial', sans-serif;
-            font-size: 19px;
-            color: #c7d0d3;
-        }
-
-        .info-contact-box li:first-child:before {
-            content: "\e92e";
-        }
-
-        .info-contact-box li:nth-child(2):before {
-            content: "\e924";
-        }
-
-        .info-contact-box li:nth-child(3):before {
-            content: "\e90a";
-        }
 
 .contact-info-wrapper h3 {
     font-size: 24px;
