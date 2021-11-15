@@ -982,24 +982,6 @@
     <script src='https://d33wubrfki0l68.cloudfront.net/bundles/453927f2c65428fa2f0510d715ab71c3eac9a33e.js'></script>
 
 
-        <script type="text/javascript">
-            $(function () {
-                if (document.cookie.indexOf("cookies") < 0) {
-                    $('#cookie-consent').slideDown('slow');
-                }
-                $('#consent').on('click', function () {
-                    $('#cookie-consent').slideUp('slow');
-                    $.ajax({
-                        type: "POST",
-                        url: '/Home/AddConsentCookie',
-                        contentType: "application/json;",
-                        success: function (response) {
-                            console.log("Consent cookie recorded");
-                        },
-                    });
-                });
-            });
-        </script>
 </body>
 
 </html>
