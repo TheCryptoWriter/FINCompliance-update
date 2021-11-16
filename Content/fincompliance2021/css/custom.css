@@ -500,21 +500,12 @@ figure {
             .header-top ul.follow-us li a:hover i {
                 opacity: 1;
             }
-
+z
 
 /*-----------------------
 	Header opt2
 -----------------------*/
 
-.header-wrapper header {
-    margin-top: 70px;
-    border-bottom: 1px #c5cacf solid;
-}
-
-    .header-wrapper header.fixed {
-        position: relative;
-        animation: none;
-    }
 
 .opt2 .header-top {
     background: #2a3f44;
@@ -1490,74 +1481,9 @@ nav {
     position: relative;
 }
 
-.banner.slide2 {
-    background-size: cover;
-    position: relative;
-}
 
-    .banner.slide2:after {
-        width: 100%;
-        height: 100%;
-        display: block;
-        background: rgba(48, 90, 90, 0.85);
-        content: "";
-        position: absolute;
-        left: 0px;
-        top: 0px;
-    }
 
-    .banner.slide2 .cnt-block {
-        padding-bottom: 50px;
-    }
 
-    .banner.slide2 img {
-        display: block;
-        margin: 0 auto;
-    }
-
-    .banner.slide2 .cnt-block .left {
-        border-color: #b7c5c7;
-    }
-
-.banner.slide3 {
-    background-size: cover;
-    position: relative;
-}
-
-    .banner.slide3:after {
-        width: 100%;
-        height: 100%;
-        display: block;
-        background: rgba(42, 63, 68, 0.85);
-        content: "";
-        position: absolute;
-        left: 0px;
-        top: 0px;
-    }
-
-    .banner.slide3 .cnt-block {
-        padding-top: 80px;
-        padding-bottom: 40px;
-    }
-
-    .banner.slide3 .left {
-        text-align: center;
-        border: none;
-    }
-
-        .banner.slide3 .left h1 {
-            padding-bottom: 10px;
-        }
-
-        .banner.slide3 .left p {
-            font-size: 20px;
-            padding-bottom: 30px;
-        }
-
-    .banner.slide3 img {
-        display: block;
-        margin: 0 auto;
-    }
 
 .banner-outer .bx-pager,
 .banner-outer .bx-controls-auto {
