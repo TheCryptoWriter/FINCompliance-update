@@ -5525,29 +5525,6 @@ ul.contact-list {
 
 /* ================================================== */
 
-.career-banner.inner-banner {
-    min-height: 400px;
-    background: url(../images/banner-career.jpg) no-repeat center top;
-}
-
-.career-banner .get-started {
-    max-width: 230px;
-    display: block;
-    margin: 50px auto 0;
-    background: #f29a32;
-    border-radius: 5px;
-    color: #fff;
-    font-size: 16px;
-    font-weight: 700;
-    padding: 0 20px;
-    line-height: 52px;
-    text-align: center;
-    text-transform: uppercase;
-}
-
-    .career-banner .get-started:hover {
-        background: #173139;
-    }
 
 .success-everyday {
     padding: 60px 0px;
@@ -6147,84 +6124,6 @@ ul.our-values li .text-area p {
     color: #57bce2;
 }
 
-.call-action-bar {
-    padding: 60px 0;
-    text-align: center;
-}
-
-    .call-action-bar.blue {
-        background: #57bce2;
-    }
-
-    .call-action-bar.green {
-        background: #42d79e;
-    }
-
-        .call-action-bar.green .border {
-            background: none;
-            border: 2px #fff solid !important;
-            color: #fff;
-        }
-
-            .call-action-bar.green .border:hover {
-                background: #fff;
-                color: #42d79e;
-            }
-
-    .call-action-bar.orange {
-        background: #f29a32;
-    }
-
-        .call-action-bar.blue h2,
-        .call-action-bar.green h2,
-        .call-action-bar.orange h2 {
-            color: #fff;
-        }
-
-    .call-action-bar.bg {
-        padding: 65px 0;
-        background: url(/Content/fincompliance2021/images/images/call-action-bg.jpg) no-repeat center center;
-        background-size: cover;
-        position: relative;
-    }
-
-        .call-action-bar.bg:after {
-            width: 100%;
-            height: 100%;
-            display: block;
-            content: "";
-            position: absolute;
-            left: 0px;
-            top: 0px;
-            background: rgba(0, 0, 0, 0.5)
-        }
-
-        .call-action-bar.bg .container {
-            position: relative;
-            z-index: 2;
-        }
-
-    .call-action-bar h2 {
-        padding-bottom: 5px;
-        color: #00324c;
-        line-height: 48px;
-    }
-
-    .call-action-bar h4 {
-        color: #fff;
-        line-height: 48px;
-        font-size: 28px;
-    }
-
-        .call-action-bar h2 span,
-        .call-action-bar h4 span {
-            display: inline-block;
-            padding: 0 40px;
-        }
-
-    .call-action-bar p {
-        color: #728e9c;
-    }
 
 .download-box {
     max-width: 560px;
