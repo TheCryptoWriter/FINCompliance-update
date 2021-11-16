@@ -7280,11 +7280,6 @@ button.close {
 	 Countdown
 ------------------------------------*/
 
-.countdown-wrapper.bg {
-    background: url(/Content/fincompliance2021/images/images/inner-countdown.jpg) no-repeat center;
-    background-size: cover;
-    padding: 50px 0;
-}
 
 .count-down.padding-lg {
     padding-bottom: 40px;
@@ -7407,120 +7402,7 @@ button.close {
 
 /* ================================================== */
 
-.comingsoon {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    display: table;
-    background: url(/Content/fincompliance2021/images/images/comingsoon.jpg) no-repeat center fixed;
-    background-size: cover;
-}
 
-    .comingsoon:after {
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.5);
-        position: fixed;
-        left: 0;
-        top: 0;
-        bottom: 0;
-        content: "";
-    }
-
-    .comingsoon .countdown-container {
-        display: table-cell;
-        vertical-align: middle;
-    }
-
-.countdown-wrapper {
-    max-width: 690px;
-    margin: 0 auto;
-    padding: 40px 15px;
-    text-align: center;
-    position: relative;
-    z-index: 1;
-}
-
-    .countdown-wrapper h1 {
-        display: block;
-        font-size: 80px;
-        font-weight: 600;
-        color: #fff;
-        padding: 0 0 26px;
-        text-align: center;
-        text-transform: uppercase;
-    }
-
-.countdown-container h3 {
-    font-size: 24px;
-    line-height: 51px;
-    color: #fff;
-    padding: 0 0 15px;
-    font-weight: 600;
-}
-
-.countdown-container p {
-    font-size: 16px;
-    line-height: 28px;
-    color: #fff;
-    opacity: 0.7;
-}
-
-.comingsoon .social-media-box {
-    position: relative;
-    background: none;
-    margin: 10px 0 0;
-    box-shadow: none;
-}
-
-    .comingsoon .social-media-box ul li {
-        padding: 0 4px;
-    }
-
-        .comingsoon .social-media-box ul li a {
-            display: inline-block;
-            padding: 0 1px;
-        }
-
-            .comingsoon .social-media-box ul li a i {
-                width: 40px;
-                height: 40px;
-                line-height: 40px;
-                transition: all 0.3s ease 0s;
-            }
-
-                .comingsoon .social-media-box ul li a i:hover {
-                    background: #fff;
-                    color: #333;
-                }
-
-    .comingsoon .social-media-box:before {
-        width: 200px;
-        max-width: 32%;
-        position: absolute;
-        top: 48%;
-        left: 0;
-        content: "";
-        height: 1px;
-        background: rgba(255, 255, 255, 0.3);
-    }
-
-    .comingsoon .social-media-box:after {
-        width: 200px;
-        max-width: 32%;
-        position: absolute;
-        top: 48%;
-        right: 0;
-        content: "";
-        height: 1px;
-        background: rgba(255, 255, 255, 0.3);
-    }
-
-    .comingsoon .social-media-box ul {
-        max-width: 240px;
-        margin: 0 auto;
-        padding: 25px 0;
-    }
 
 .count-dwn-cnt {
     display: block;
@@ -11612,18 +11494,7 @@ ul.speak-listing > .owl-carousel > li > .inner > a > img {
         line-height: 70px;
     }
 
-    .comingsoon .social-media-box {
-        margin: 0;
-    }
 
-        .comingsoon .social-media-box ul {
-            padding: 0px;
-        }
-
-        .comingsoon .social-media-box:before,
-        .comingsoon .social-media-box:after {
-            max-width: 28%;
-        }
 
     ul.Product-listing li .sale-ribbon {
         font-size: 14px;
@@ -11997,10 +11868,7 @@ ul.speak-listing > .owl-carousel > li > .inner > a > img {
         font-weight: 400;
     }
 
-    .comingsoon .social-media-box:before,
-    .comingsoon .social-media-box:after {
-        max-width: 22%;
-    }
+ 
 
     ul.Product-listing {
         margin-bottom: 10px;
@@ -12230,11 +12098,6 @@ ul.speak-listing > .owl-carousel > li > .inner > a > img {
 
     .about-video .cnt-block a {
         font-size: 48px;
-    }
-
-    .comingsoon .social-media-box:before,
-    .comingsoon .social-media-box:after {
-        max-width: 16%;
     }
 }
 
