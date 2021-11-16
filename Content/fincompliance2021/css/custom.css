@@ -8373,39 +8373,6 @@ ul.Product-listing.right-sec li .bottom .add-cart {
     border-bottom: 1px #d6dfe3 solid;
 }
 
-    .check-pay .radio-outer {
-        margin-bottom: 20px;
-    }
-
-.radio-outer {
-    display: block;
-}
-
-    .radio-outer label {
-        padding-left: 30px;
-        margin: 0px;
-        position: relative;
-        font-size: 18px;
-        font-weight: 500;
-        color: #00324c;
-    }
-
-    .radio-outer input[type="radio"] + label:before {
-        width: 18px;
-        height: 18px;
-        display: block;
-        content: ' ';
-        background: url(/Content/fincompliance2021/images/images/radio-button.png) no-repeat center top / 100%;
-        position: absolute;
-        top: 0px;
-        left: 0px;
-        top: 50%;
-        transform: translateY(-50%);
-    }
-
-    .radio-outer input[type="radio"]:checked + label:before {
-        background-position: center bottom;
-    }
 
 .check-pay .payment-box {
     padding: 20px 65px 20px 25px;
@@ -8441,9 +8408,7 @@ ul.Product-listing.right-sec li .bottom .add-cart {
     padding: 25px 30px 35px 30px;
 }
 
-    .method-paypal .radio-outer {
-        display: block;
-    }
+ 
 
     .method-paypal .paypal-img {
         display: inline-block;
@@ -11535,14 +11500,6 @@ ul.speak-listing > .owl-carousel > li > .inner > a > img {
         font-size: 18px;
     }
 
-    .radio-outer label {
-        font-size: 15px;
-    }
-
-    .radio-outer input[type="radio"] + label:before {
-        width: 15px;
-        height: 15px;
-    }
 
     .checkout-table > table > tbody > tr > td:first-child {
         padding-left: 20px;
@@ -12242,8 +12199,6 @@ ul.speak-listing > .owl-carousel > li > .inner > a > img {
         width: 25%;
     }
 }
-
-@import url('../../../css.css');
 
 body {
     font-family: 'Arial', sans-serif;
