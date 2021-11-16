@@ -3007,29 +3007,6 @@ ul.speak-listing.opt4 li .client-detail {
  Demos Wrapper
 ------------------------------------*/
 
-.demo-wrapper {
-    padding: 130px 0;
-    background: #fbfbfb url(/Content/fincompliance2021/images/images/landing-CTA-top.png) no-repeat bottom center;
-    background-size: 100%;
-}
-
-    .demo-wrapper.white-bg {
-        padding: 90px 0;
-    }
-
-    .demo-wrapper h2 {
-        padding: 0 0 15px;
-    }
-
-    .demo-wrapper p {
-        font-size: 16px;
-        line-height: 26px;
-    }
-
-    .demo-wrapper .container.lg {
-        max-width: 1470px;
-        margin: 50px auto 0;
-    }
 
 .theme-demo-listing {
     margin: 40px auto 0;
