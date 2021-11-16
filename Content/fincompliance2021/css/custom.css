@@ -1491,7 +1491,6 @@ nav {
 }
 
 .banner.slide2 {
-    background: url(/Content/fincompliance2021/images/images/banner-bg2.jpg) no-repeat center top;
     background-size: cover;
     position: relative;
 }
@@ -1521,7 +1520,6 @@ nav {
     }
 
 .banner.slide3 {
-    background: url(/Content/fincompliance2021/images/images/banner-bg3.jpg) no-repeat center top;
     background-size: cover;
     position: relative;
 }
@@ -1638,7 +1636,6 @@ nav {
 
 .banner.slide3.banner5 {
     padding-top: 86px;
-    background: url(/Content/fincompliance2021/images/images/banner-bg4.jpg) no-repeat center top;
     background-size: cover;
 }
 
@@ -3030,7 +3027,6 @@ ul.speak-listing.opt4 li .client-detail {
 -----------------------*/
 
 .signup-outer.img-bg {
-    background: url(/Content/fincompliance2021/images/images/signup-bg.jpg) no-repeat center top;
     background-size: cover;
 }
 
