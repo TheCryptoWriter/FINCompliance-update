@@ -63,7 +63,7 @@ $.get('/includes/header.html', function (response) {
     $('#include-header').html(response);
 });
 */
-$("#moreinfo").click(function (event) {
+$(".more-info").click(function (event) {
   event.preventDefault();
   this.blur(); // Manually remove focus from clicked link.
   $.get(this.href, function (html) {
