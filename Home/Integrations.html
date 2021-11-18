@@ -159,11 +159,14 @@
             height: 100%
         }
 
-        img:hover {
+        img + i:hover {
             -webkit-filter: grayscale(0);
             transform: scale(1.2, 1.2)
         }
-
+ i:hover {
+            -webkit-filter: grayscale(0);
+            transform: scale(1.2, 1.2)
+        }
         @keyframes rotation {
             from {
                 transform: rotateY(0deg)
@@ -325,7 +328,7 @@
     </section>
     <section class="container">
         <div class="padding-md">
-            <figure class="text-center"> <a href="#myModal13" role="button" class="" data-toggle="modal"><img src="../Content/fincompliance2021/images/logos/logo2.png" width="250px" height="auto" class="img-fluid  col-4" /><i class="fa fa-plus-square-o fa-3x col-1" aria-hidden="true"></i>
+            <figure class="text-center"> <a href="#myModal13" role="button" class="" data-toggle="modal"><i class="fa fa-plus-square-o fa-3x col-1" aria-hidden="true"></i><img src="../Content/fincompliance2021/images/logos/logo2.png" width="250px" height="auto" class="img-fluid  col-4" />
 </a></figure>
             <div id="myModal13" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
