@@ -46,129 +46,130 @@
             position: relative;
             width: 100%
         }
-@import url(http://fonts.googleapis.com/css?family=Anaheim);
 
-* {
-    margin: 0;
-    padding: 0;
-    outline: none;
-    border: none;
-    box-sizing: border-box
-}
+        @import url(http://fonts.googleapis.com/css?family=Anaheim);
 
-*:before,
-*:after {
-    box-sizing: border-box
-}
+        * {
+            margin: 0;
+            padding: 0;
+            outline: none;
+            border: none;
+            box-sizing: border-box
+        }
 
-html,
-body {
-    min-height: 100%
-}
+        *:before,
+        *:after {
+            box-sizing: border-box
+        }
 
-body {
-    background-color: white;
-}
+        html,
+        body {
+            min-height: 100%
+        }
 
-h1 {
-    display: table;
-    margin: 5% auto 0;
-    text-transform: uppercase;
-    font-family: 'Times Roman', sans-serif;
-    font-size: 3em;
-    font-weight: 400;
-    color: black;
-    text-shadow: 0 1px white, 0 1px black
-}
+        body {
+            background-color: white;
+        }
 
-.container-carousel {
-    margin: 4% auto;
-    width: 210px;
-    height: 80px;
-    position: relative;
-    perspective: 1000px
-}
+        h1 {
+            display: table;
+            margin: 5% auto 0;
+            text-transform: uppercase;
+            font-family: 'Times Roman', sans-serif;
+            font-size: 3em;
+            font-weight: 400;
+            color: black;
+            text-shadow: 0 1px white, 0 1px black
+        }
 
-#carousel {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    transform-style: preserve-3d;
-    animation: rotation 20s infinite linear
-}
+        .container-carousel {
+            margin: 4% auto;
+            width: 210px;
+            height: 80px;
+            position: relative;
+            perspective: 1000px
+        }
 
-#carousel:hover {
-    animation-play-state: paused
-}
+        #carousel {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            transform-style: preserve-3d;
+            animation: rotation 20s infinite linear
+        }
 
-#carousel figure {
-    display: block;
-    position: absolute;
-    width: 90%;
-    height: 100%;
-    left: 10px;
-    top: 10px;
-    padding:5px;
-    background: white;
-    overflow: hidden;
-    border: solid 3px black;   
+        #carousel:hover {
+            animation-play-state: paused
+        }
 
-}
+        #carousel figure {
+            display: block;
+            position: absolute;
+            width: 90%;
+            height: 100%;
+            left: 10px;
+            top: 10px;
+            padding: 5px;
+            background: white;
+            overflow: hidden;
+            border: solid 3px black;
+        }
 
-#carousel figure:nth-child(1) {
-    transform: rotateY(0deg) translateZ(288px)
-}
+        #carousel figure:nth-child(1) {
+            transform: rotateY(0deg) translateZ(288px)
+        }
 
-#carousel figure:nth-child(2) {
-    transform: rotateY(40deg) translateZ(288px)
-}
+        #carousel figure:nth-child(2) {
+            transform: rotateY(40deg) translateZ(288px)
+        }
 
-#carousel figure:nth-child(3) {
-    transform: rotateY(80deg) translateZ(288px)
-}
+        #carousel figure:nth-child(3) {
+            transform: rotateY(80deg) translateZ(288px)
+        }
 
-#carousel figure:nth-child(4) {
-    transform: rotateY(120deg) translateZ(288px)
-}
+        #carousel figure:nth-child(4) {
+            transform: rotateY(120deg) translateZ(288px)
+        }
 
-#carousel figure:nth-child(5) {
-    transform: rotateY(160deg) translateZ(288px)
-}
+        #carousel figure:nth-child(5) {
+            transform: rotateY(160deg) translateZ(288px)
+        }
 
-#carousel figure:nth-child(6) {
-    transform: rotateY(200deg) translateZ(288px)
-}
+        #carousel figure:nth-child(6) {
+            transform: rotateY(200deg) translateZ(288px)
+        }
 
-#carousel figure:nth-child(7) {
-    transform: rotateY(240deg) translateZ(288px)
-}
+        #carousel figure:nth-child(7) {
+            transform: rotateY(240deg) translateZ(288px)
+        }
 
-#carousel figure:nth-child(8) {
-    transform: rotateY(280deg) translateZ(288px)
-}
+        #carousel figure:nth-child(8) {
+            transform: rotateY(280deg) translateZ(288px)
+        }
 
-#carousel figure:nth-child(9) {
-    transform: rotateY(320deg) translateZ(288px)
-}
+        #carousel figure:nth-child(9) {
+            transform: rotateY(320deg) translateZ(288px)
+        }
 
-#carousel figure img {
- height: 100%
-}
+        #carousel figure img {
+            height: 100%
+        }
 
-img:hover {
-    -webkit-filter: grayscale(0);
-    transform: scale(1.2, 1.2)
-}
+        img:hover {
+            -webkit-filter: grayscale(0);
+            transform: scale(1.2, 1.2)
+        }
 
-@keyframes rotation {
-    from {
-        transform: rotateY(0deg)
-    }
+        @keyframes rotation {
+            from {
+                transform: rotateY(0deg)
+            }
 
-    to {
-        transform: rotateY(360deg)
-    }
-}
+            to {
+                transform: rotateY(360deg)
+            }
+        }
+
     </style>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -343,176 +344,176 @@ img:hover {
             <li>View training video in Getting Started</li>
         </ul>
     </div>
-    <section><h1>Automate your compliance workflows</h1><br>
-    <div class="container-carousel">
-        <div id="carousel">
-            
-        <figure class="text-center"><a href="#myModal" role="button" class="more-info" data-toggle="modal"><img src="../Content/fincompliance2021/images/integrations/zapier.png"></a></figure>
-        <figure class="text-center"><a type="button" href="modals/newModal.html#redtail" class="more-info" data-toggle="modal" data-target="#redtail" class="btn get-started"><img src="../Content/fincompliance2021/images/integrations/redtail.png"></a></figure>
-        <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/wealthbox.png"></figure>
-        <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/morningstar.png"></figure>
-        <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/calendly.png"></figure>
-        <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/docusign.png"></figure>
-        <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/box.png"></figure>
-        <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/sharefile.png"></figure>
-        <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/google-cloud.png"></figure>
-        <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/Trainual.png"></figure>
-        <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/approve-me"></figure>
-        </div>
-    </div><p class="text-center">Click logo for info</p>
-</section>
-<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <section>
+        <h1>Automate your compliance workflows</h1><br>
+        <div class="container-carousel">
+            <div id="carousel">
 
-<div id="zapier" class="modal hide fade">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4>Zapier</h4>
+                <figure class="text-center"><a href="#myModal" role="button" class="" data-toggle="modal"><img src="../Content/fincompliance2021/images/integrations/zapier.png"></a></figure>
+                <figure class="text-center"><a type="button" href="modals/newModal.html#redtail" class="more-info" data-toggle="modal" data-target="#redtail" class="btn get-started"><img src="../Content/fincompliance2021/images/integrations/redtail.png"></a></figure>
+                <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/wealthbox.png"></figure>
+                <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/morningstar.png"></figure>
+                <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/calendly.png"></figure>
+                <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/docusign.png"></figure>
+                <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/box.png"></figure>
+                <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/sharefile.png"></figure>
+                <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/google-cloud.png"></figure>
+                <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/Trainual.png"></figure>
+                <figure class="text-center"><img src="../Content/fincompliance2021/images/integrations/approve-me"></figure>
             </div>
-            <div class="modal-body">
-                <form role="form" method="POST" action="">
-                    <div class="row text-center mx-auto my-4"> <input type="hidden" name="_token" value="">
-                        <div class="mx-auto col-4">
-                            <label for="file">Upload Photo/logo Here</label><br>
-                            <input type="file" class="form-control-file" id="file">
+        </div>
+        <p class="text-center">Click logo for info</p>
+    </section>
+    <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4>Zapier</h4>
+                </div>
+                <div class="modal-body">
+                    <form role="form" method="POST" action="">
+                        <div class="row text-center mx-auto my-4"> <input type="hidden" name="_token" value="">
+                            <div class="mx-auto col-4">
+                                <label for="file">Upload Photo/logo Here</label><br>
+                                <input type="file" class="form-control-file" id="file">
+                            </div>
                         </div>
-                    </div>
-                    <div class="row text-center mx-auto my-4">
+                        <div class="row text-center mx-auto my-4">
 
-                        <div class="col-6">
-                            <label for="username">Username</label><br>
-                            <input type="text" name="username" placeholder="" require>
+                            <div class="col-6">
+                                <label for="username">Username</label><br>
+                                <input type="text" name="username" placeholder="" require>
 
-                        </div>
-                        <div class="col-6">
-                            <label for="password">Password</label><br>
-                            <input type="text" name="password" placeholder="" require>
+                            </div>
+                            <div class="col-6">
+                                <label for="password">Password</label><br>
+                                <input type="text" name="password" placeholder="" require>
 
+                            </div>
                         </div>
-                    </div>
-                    <div class="row text-center mx-auto my-4">
-                        <div class="col-6">
-                            <label for="fname">First Name</label><br>
-                            <input type="text" id="fname" name="fname" placeholder="John" require>
+                        <div class="row text-center mx-auto my-4">
+                            <div class="col-6">
+                                <label for="fname">First Name</label><br>
+                                <input type="text" id="fname" name="fname" placeholder="John" require>
+                            </div>
+                            <div class="col-6">
+                                <label for="lname">Last Name</label><br>
+                                <input type="text" id="lname" name="lname" placeholder="Doe" require>
+                            </div>
                         </div>
-                        <div class="col-6">
-                            <label for="lname">Last Name</label><br>
-                            <input type="text" id="lname" name="lname" placeholder="Doe" require>
+                        <div class="row text-center mx-auto my-4">
+                            <div class="col-6">
+                                <label for="vendor-location">Location</label><br>
+                                <input type="text" name="vendor-location" placeholder="City, St">
+                            </div>
+                            <div class="col-6">
+                                <label for="phone">Phone
+                                </label><br>
+                                <input type="number" id="phone" name="phone" placeholder="(123)456-7890">
+                            </div>
                         </div>
-                    </div>
-                    <div class="row text-center mx-auto my-4">
-                        <div class="col-6">
-                            <label for="vendor-location">Location</label><br>
-                            <input type="text" name="vendor-location" placeholder="City, St">
-                        </div>
-                        <div class="col-6">
-                            <label for="phone">Phone
-                            </label><br>
-                            <input type="number" id="phone" name="phone" placeholder="(123)456-7890">
-                        </div>
-                    </div>
 
-                    <div class="row text-center mx-auto my-4">
-                        <div class="col-6">
-                            <label for="email">Email
-                            </label><br>
-                            <input type="email" id="email" name="email" placeholder="example@email.com">
+                        <div class="row text-center mx-auto my-4">
+                            <div class="col-6">
+                                <label for="email">Email
+                                </label><br>
+                                <input type="email" id="email" name="email" placeholder="example@email.com">
+                            </div>
+                            <div class="col-6">
+                                <label for="website">Website URL
+                                </label><br> <input type="url" id="website" name="website" placeholder="https://www.example.com">
+                            </div>
                         </div>
-                        <div class="col-6">
-                            <label for="website">Website URL
-                            </label><br> <input type="url" id="website" name="website" placeholder="https://www.example.com">
-                        </div>
-                    </div>
-                    <div class="text-center row my-4">
+                        <div class="text-center row my-4">
 
-                        <button class="btn btn-outline-info dropdown-toggle col-4 mx-auto checkbox-menu " type="button " data-toggle="dropdown">Services </button>
+                            <button class="btn btn-outline-info dropdown-toggle col-4 mx-auto checkbox-menu " type="button " data-toggle="dropdown">Services </button>
 
-                        <div class="dropdown-menu bg-white  col-6  text-dark">
-                            <div class=" d-flex">
-                                <div class="col-6 ">
-                                    <div class="dropdown-item">
-                                        <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="checkbox1">
-                                            <label class="custom-control-label checkbox" for="checkbox1">Business Dev</label>
+                            <div class="dropdown-menu bg-white  col-6  text-dark">
+                                <div class=" d-flex">
+                                    <div class="col-6 ">
+                                        <div class="dropdown-item">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkbox1">
+                                                <label class="custom-control-label checkbox" for="checkbox1">Business Dev</label>
+                                            </div>
+                                        </div>
+                                        <div class="dropdown-item">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkbox2" checked>
+                                                <label class="custom-control-label checkbox" for="checkbox2"> Cybersecurity</label>
+                                            </div>
+                                        </div>
+                                        <div class="dropdown-item">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkbox4">
+                                                <label class="custom-control-label checkbox" for="checkbox4"> Operations</label>
+                                            </div>
+                                        </div>
+                                        <div class="dropdown-item">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkbox5">
+                                                <label class="custom-control-label checkbox" for="checkbox5"> Tech/Support</label>
+                                            </div>
+                                        </div>
+                                        <div class="dropdown-item">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkbox6">
+                                                <label class="custom-control-label checkbox" for="checkbox6"> Marketing</label>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="dropdown-item">
-                                        <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="checkbox2" checked>
-                                            <label class="custom-control-label checkbox" for="checkbox2"> Cybersecurity</label>
+                                    <div class="col-6 ">
+                                        <div class="dropdown-item">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkbox7">
+                                                <label class="custom-control-label checkbox" for="checkbox7"> Mergers/Acquisitions</label>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="dropdown-item">
-                                        <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="checkbox4">
-                                            <label class="custom-control-label checkbox" for="checkbox4"> Operations</label>
+                                        <div class="dropdown-item">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkbox8">
+                                                <label class="custom-control-label checkbox" for="checkbox8"> Crowdfunding</label>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="dropdown-item">
-                                        <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="checkbox5">
-                                            <label class="custom-control-label checkbox" for="checkbox5"> Tech/Support</label>
+                                        <div class="dropdown-item">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkbox9">
+                                                <label class="custom-control-label checkbox" for="checkbox9"> Blockchain</label>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="dropdown-item">
-                                        <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="checkbox6">
-                                            <label class="custom-control-label checkbox" for="checkbox6"> Marketing</label>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-6 ">
-                                    <div class="dropdown-item">
-                                        <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="checkbox7">
-                                            <label class="custom-control-label checkbox" for="checkbox7"> Mergers/Acquisitions</label>
-                                        </div>
-                                    </div>
-                                    <div class="dropdown-item">
-                                        <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="checkbox8">
-                                            <label class="custom-control-label checkbox" for="checkbox8"> Crowdfunding</label>
-                                        </div>
-                                    </div>
-                                    <div class="dropdown-item">
-                                        <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="checkbox9">
-                                            <label class="custom-control-label checkbox" for="checkbox9"> Blockchain</label>
-                                        </div>
-                                    </div>
-                                    <div class="dropdown-item">
-                                        <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="checkbox10">
-                                            <label class="custom-control-label checkbox " for="checkbox10"> Accounting</label>
+                                        <div class="dropdown-item">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkbox10">
+                                                <label class="custom-control-label checkbox " for="checkbox10"> Accounting</label>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-6">
-                            <label for="offerTitle">Offer Title
-                            </label><br>
-                            <textarea cols="30" rows="1" id="offer" name="offerTitle" placeholder="Give the offer a title...">
+                            <div class="col-6">
+                                <label for="offerTitle">Offer Title
+                                </label><br>
+                                <textarea cols="30" rows="1" id="offer" name="offerTitle" placeholder="Give the offer a title...">
                         </textarea>
+                            </div>
                         </div>
-                    </div>
 
-                    <div class="row text-center mx-auto my-4">
-                        <div class="col-12">
-                            <label for="offerDescription">Offer Description</label>
-                            <textarea cols="75" rows="6" id="offerdescription" name="offerDescription" placeholder="Describe the offer..."></textarea>
-                        </div><br>
-                    </div>
-                    <div class="text-center">
-                        <button type="submit" class="btn btn-primary ">Register</button>
-                    </div>
-                </form>
+                        <div class="row text-center mx-auto my-4">
+                            <div class="col-12">
+                                <label for="offerDescription">Offer Description</label>
+                                <textarea cols="75" rows="6" id="offerdescription" name="offerDescription" placeholder="Describe the offer..."></textarea>
+                            </div><br>
+                        </div>
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary ">Register</button>
+                        </div>
+                    </form>
+                </div>
+
             </div>
         </div>
     </div>
-</div>
-</div>
     <section class="padding-lg">
         <div class="text-center row justify-content-center" style="margin: 0 !important;">
             <ul class="pt-0 career-accordian col-7 mb-3 text-center mx-5  card border-dark border-lg">
@@ -595,13 +596,13 @@ img:hover {
 
                 <div id="accordion4" class="accordion" role="tablist">
                     <div class="collapsed" role="tab" id="headingTab4 ">
-                    
-                            <figure class=""><img src="../Content/fincompliance2021/images/integrations/wealthbox.png" alt="" class="img-fluid"></figure>
 
-                            <a data-toggle="collapse" href="#collapseTab4" aria-expanded="true" aria-controls="collapseTab4">
-                                <i class="fa fa-plus-square-o fa-2x" aria-hidden="true"></i>
-                            </a>
-                    
+                        <figure class=""><img src="../Content/fincompliance2021/images/integrations/wealthbox.png" alt="" class="img-fluid"></figure>
+
+                        <a data-toggle="collapse" href="#collapseTab4" aria-expanded="true" aria-controls="collapseTab4">
+                            <i class="fa fa-plus-square-o fa-2x" aria-hidden="true"></i>
+                        </a>
+
                     </div>
                     <div id="collapseTab4" class="collapse" role="tabpanel" aria-labelledby="headingTab4 " data-parent="#accordion4">
                         <ul class="pt-3 col-12 text-center mx-auto list-unstyled">
@@ -982,9 +983,7 @@ img:hover {
     <script src="../Content/fincompliance2021/assets/waypoints/js/waypoints.min.js"></script>
     <script src="../Content/fincompliance2021/assets/counterup/js/counterup.min.js"></script>
     <script src="../Content/fincompliance2021/js/custom.js"></script>
-    <script src='../Content/fincompliance2021/js/jquery-custom.js'></script>  
-     
-
+    <script src='../Content/fincompliance2021/js/jquery-custom.js'></script>
 
 </body>
 
