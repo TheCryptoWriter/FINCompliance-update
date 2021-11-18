@@ -28,7 +28,24 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.css" rel="stylesheet">
 
     <style>
-     
+        .accordion .card-header h3:after {
+            font-family: 'FontAwesome';
+            content: "/A /f068";
+            white-space: pre-wrap;
+            opacity: 35%;
+        }
+
+        .accordion .card-header h3:after {
+            font-family: 'FontAwesome';
+            content: "/A /f067 Click to expand";
+            white-space: pre-wrap;
+            opacity: 35%;
+        }
+
+        .career-accordian li {
+            position: relative;
+            width: 100%
+        }
 @import url(http://fonts.googleapis.com/css?family=Anaheim);
 
 * {
@@ -50,7 +67,7 @@ body {
 }
 
 body {
-    background-color: #FF9100
+    background-color: white;
 }
 
 h1 {
@@ -60,7 +77,7 @@ h1 {
     font-family: 'Times Roman', sans-serif;
     font-size: 3em;
     font-weight: 400;
-    color: #fff;
+    color: black;
     text-shadow: 0 1px white, 0 1px black
 }
 
