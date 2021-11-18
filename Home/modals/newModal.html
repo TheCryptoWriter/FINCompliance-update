@@ -1,6 +1,298 @@
-<html>
+<div id="zapier" class="modal fade">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4>Zapier</h4>
+            </div>
+            <div class="modal-body">
+                <form role="form" method="POST" action="">
+                    <div class="row text-center mx-auto my-4"> <input type="hidden" name="_token" value="">
+                        <div class="mx-auto col-4">
+                            <label for="file">Upload Photo/logo Here</label><br>
+                            <input type="file" class="form-control-file" id="file">
+                        </div>
+                    </div>
+                    <div class="row text-center mx-auto my-4">
 
-    Hello world
+                        <div class="col-6">
+                            <label for="username">Username</label><br>
+                            <input type="text" name="username" placeholder="" require>
 
-</html>
+                        </div>
+                        <div class="col-6">
+                            <label for="password">Password</label><br>
+                            <input type="text" name="password" placeholder="" require>
 
+                        </div>
+                    </div>
+                    <div class="row text-center mx-auto my-4">
+                        <div class="col-6">
+                            <label for="fname">First Name</label><br>
+                            <input type="text" id="fname" name="fname" placeholder="John" require>
+                        </div>
+                        <div class="col-6">
+                            <label for="lname">Last Name</label><br>
+                            <input type="text" id="lname" name="lname" placeholder="Doe" require>
+                        </div>
+                    </div>
+                    <div class="row text-center mx-auto my-4">
+                        <div class="col-6">
+                            <label for="vendor-location">Location</label><br>
+                            <input type="text" name="vendor-location" placeholder="City, St">
+                        </div>
+                        <div class="col-6">
+                            <label for="phone">Phone
+                            </label><br>
+                            <input type="number" id="phone" name="phone" placeholder="(123)456-7890">
+                        </div>
+                    </div>
+
+                    <div class="row text-center mx-auto my-4">
+                        <div class="col-6">
+                            <label for="email">Email
+                            </label><br>
+                            <input type="email" id="email" name="email" placeholder="example@email.com">
+                        </div>
+                        <div class="col-6">
+                            <label for="website">Website URL
+                            </label><br> <input type="url" id="website" name="website" placeholder="https://www.example.com">
+                        </div>
+                    </div>
+                    <div class="text-center row my-4">
+
+                        <button class="btn btn-outline-info dropdown-toggle col-4 mx-auto checkbox-menu " type="button " data-toggle="dropdown">Services </button>
+
+                        <div class="dropdown-menu bg-white  col-6  text-dark">
+                            <div class=" d-flex">
+                                <div class="col-6 ">
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox1">
+                                            <label class="custom-control-label checkbox" for="checkbox1">Business Dev</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox2" checked>
+                                            <label class="custom-control-label checkbox" for="checkbox2"> Cybersecurity</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox4">
+                                            <label class="custom-control-label checkbox" for="checkbox4"> Operations</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox5">
+                                            <label class="custom-control-label checkbox" for="checkbox5"> Tech/Support</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox6">
+                                            <label class="custom-control-label checkbox" for="checkbox6"> Marketing</label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6 ">
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox7">
+                                            <label class="custom-control-label checkbox" for="checkbox7"> Mergers/Acquisitions</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox8">
+                                            <label class="custom-control-label checkbox" for="checkbox8"> Crowdfunding</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox9">
+                                            <label class="custom-control-label checkbox" for="checkbox9"> Blockchain</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox10">
+                                            <label class="custom-control-label checkbox " for="checkbox10"> Accounting</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-6">
+                            <label for="offerTitle">Offer Title
+                            </label><br>
+                            <textarea cols="30" rows="1" id="offer" name="offerTitle" placeholder="Give the offer a title...">
+                        </textarea>
+                        </div>
+                    </div>
+
+                    <div class="row text-center mx-auto my-4">
+                        <div class="col-12">
+                            <label for="offerDescription">Offer Description</label>
+                            <textarea cols="75" rows="6" id="offerdescription" name="offerDescription" placeholder="Describe the offer..."></textarea>
+                        </div><br>
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary ">Register</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="redtail" class="modal fade">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4>Red Tail</h4>
+            </div>
+            <div class="modal-body">
+                <form role="form" method="POST" action="">
+                    <div class="row text-center mx-auto my-4"> <input type="hidden" name="_token" value="">
+                        <div class="mx-auto col-4">
+                            <label for="file">Upload Photo/logo Here</label><br>
+                            <input type="file" class="form-control-file" id="file">
+                        </div>
+                    </div>
+                    <div class="row text-center mx-auto my-4">
+
+                        <div class="col-6">
+                            <label for="username">Username</label><br>
+                            <input type="text" name="username" placeholder="" require>
+
+                        </div>
+                        <div class="col-6">
+                            <label for="password">Password</label><br>
+                            <input type="text" name="password" placeholder="" require>
+
+                        </div>
+                    </div>
+                    <div class="row text-center mx-auto my-4">
+                        <div class="col-6">
+                            <label for="fname">First Name</label><br>
+                            <input type="text" id="fname" name="fname" placeholder="John" require>
+                        </div>
+                        <div class="col-6">
+                            <label for="lname">Last Name</label><br>
+                            <input type="text" id="lname" name="lname" placeholder="Doe" require>
+                        </div>
+                    </div>
+                    <div class="row text-center mx-auto my-4">
+                        <div class="col-6">
+                            <label for="vendor-location">Location</label><br>
+                            <input type="text" name="vendor-location" placeholder="City, St">
+                        </div>
+                        <div class="col-6">
+                            <label for="phone">Phone
+                            </label><br>
+                            <input type="number" id="phone" name="phone" placeholder="(123)456-7890">
+                        </div>
+                    </div>
+
+                    <div class="row text-center mx-auto my-4">
+                        <div class="col-6">
+                            <label for="email">Email
+                            </label><br>
+                            <input type="email" id="email" name="email" placeholder="example@email.com">
+                        </div>
+                        <div class="col-6">
+                            <label for="website">Website URL
+                            </label><br> <input type="url" id="website" name="website" placeholder="https://www.example.com">
+                        </div>
+                    </div>
+                    <div class="text-center row my-4">
+
+                        <button class="btn btn-outline-info dropdown-toggle col-4 mx-auto checkbox-menu " type="button " data-toggle="dropdown">Services </button>
+
+                        <div class="dropdown-menu bg-white  col-6  text-dark">
+                            <div class=" d-flex">
+                                <div class="col-6 ">
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox1">
+                                            <label class="custom-control-label checkbox" for="checkbox1">Business Dev</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox2" checked>
+                                            <label class="custom-control-label checkbox" for="checkbox2"> Cybersecurity</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox4">
+                                            <label class="custom-control-label checkbox" for="checkbox4"> Operations</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox5">
+                                            <label class="custom-control-label checkbox" for="checkbox5"> Tech/Support</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox6">
+                                            <label class="custom-control-label checkbox" for="checkbox6"> Marketing</label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6 ">
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox7">
+                                            <label class="custom-control-label checkbox" for="checkbox7"> Mergers/Acquisitions</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox8">
+                                            <label class="custom-control-label checkbox" for="checkbox8"> Crowdfunding</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox9">
+                                            <label class="custom-control-label checkbox" for="checkbox9"> Blockchain</label>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-item">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input" id="checkbox10">
+                                            <label class="custom-control-label checkbox " for="checkbox10"> Accounting</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-6">
+                            <label for="offerTitle">Offer Title
+                            </label><br>
+                            <textarea cols="30" rows="1" id="offer" name="offerTitle" placeholder="Give the offer a title...">
+                        </textarea>
+                        </div>
+                    </div>
+
+                    <div class="row text-center mx-auto my-4">
+                        <div class="col-12">
+                            <label for="offerDescription">Offer Description</label>
+                            <textarea cols="75" rows="6" id="offerdescription" name="offerDescription" placeholder="Describe the offer..."></textarea>
+                        </div><br>
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary ">Register</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
