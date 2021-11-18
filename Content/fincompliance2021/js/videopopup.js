@@ -51,15 +51,15 @@ $(document).ready(function () {
 $("#moreinfo").click(function (event) {
   event.preventDefault();
   this.blur(); // Manually remove focus from clicked link.
-  $.get(this.href, function (html) {
-    $(html).appendTo("body").modal();
+  $.get(this.target, function (target) {
+    $(target).appendTo("body").modal();
   });
-  var html;
-  if (html) {
-    html.appendTo("body");
-    html = null;
+  var target;
+  if (target) {
+    target.appendTo("body");
+    target = null;
   } else {
-    html = $(".modal").detach();
+    target = $(".modal").detach();
   }
 });
 // document ready
