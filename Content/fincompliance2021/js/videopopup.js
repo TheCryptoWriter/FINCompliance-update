@@ -48,18 +48,4 @@ $(document).ready(function () {
     });
   });
 });
-$("#moreinfo").click(function (event) {
-  event.preventDefault();
-  this.blur(); // Manually remove focus from clicked link.
-  $.get(this.target, function (target) {
-    $(target).appendTo("body").modal();
-  });
-  var target;
-  if (target) {
-    target.appendTo("body");
-    target = null;
-  } else {
-    target = $(".modal").detach();
-  }
-});
 // document ready
