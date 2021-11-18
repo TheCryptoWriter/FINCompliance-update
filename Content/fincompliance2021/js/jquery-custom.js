@@ -66,15 +66,15 @@ $.get('/includes/header.html', function (response) {
 $(".more-info").click(function (event) {
   event.preventDefault();
   this.blur(); // Manually remove focus from clicked link.
-  $.get(this.href, function (html) {
+  $.get(this.target, function (target) {
     $(html).appendTo("body").modal();
   });
-  var html;
-  if (html) {
-    html.appendTo("body");
-    html = null;
+  var target;
+  if (target) {
+    target.appendTo("body");
+    target = null;
   } else {
-    html = $(".modal").detach();
+    target = $(".modal").detach();
   }
 });
 $('#loginAjax').click(function(event) {
