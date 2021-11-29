@@ -63,7 +63,20 @@ $.get('/includes/header.html', function (response) {
     $('#include-header').html(response);
 });
 */
-
+$(".more-info").click(function (event) {
+  event.preventDefault();
+  this.blur(); // Manually remove focus from clicked link.
+  $.get(this.target, function (target) {
+    $(html).appendTo("body").modal();
+  });
+  var target;
+  if (target) {
+    target.appendTo("body");
+    target = null;
+  } else {
+    target = $(".modal").detach();
+  }
+});
 $('#loginAjax').click(function(event) {
     event.preventDefault();
     this.blur(); // Manually remove focus from clicked link.
