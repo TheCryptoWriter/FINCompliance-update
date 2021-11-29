@@ -1,0 +1,31 @@
+-------------------- Auto-Git Log --------------------
+		Mon Nov 29 2021 01:09:58 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/images/AtlasPark.png
+* Content/fincompliance2021/images/images/GlacierCybersecurity.png
+* Content/fincompliance2021/images/images/NAPFA.png
+* index.html
+
+
+Created files:
+* Content/fincompliance2021/images/images/AtlasPark.webp
+* Content/fincompliance2021/images/images/EliteViviant.webp
+* Content/fincompliance2021/images/images/GlacierCybersecurity.webp
+* Content/fincompliance2021/images/images/NAPFA.webp
+* Content/fincompliance2021/images/images/QUAD.jpeg
+* Content/fincompliance2021/images/images/QUAD.png
+* Content/fincompliance2021/images/images/QUAD.webp
+* Content/fincompliance2021/images/images/presults.png
+* Content/fincompliance2021/images/images/presults.webp
+* Content/fincompliance2021/images/images/proxyceo.jpg
+* Content/fincompliance2021/images/images/proxyceo.png
+* Content/fincompliance2021/images/images/proxyceo.webp
+
+
+Deleted files:
+* Content/fincompliance2021/images/images/WebStorm-2021.2.3.exe
+
+
+Renamed files:

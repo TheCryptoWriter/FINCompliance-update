@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Fri Nov 12 2021 21:56:14 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Home/ContactB.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

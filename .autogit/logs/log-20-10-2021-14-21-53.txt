@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Sat Nov 20 2021 14:21:53 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/logos/FIN-Disclosure-Multi-Color.png
+* Content/fincompliance2021/images/logos/FINContinuityLogo.png
+* Content/fincompliance2021/images/logos/FINCybersecurityLogo.png
+* Content/fincompliance2021/images/logos/ria-finlancer-logo.png
+* Content/fincompliance2021/images/logos/ria-review-logo.png
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,27 @@
+-------------------- Auto-Git Log --------------------
+		Thu Nov 18 2021 03:48:46 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/integrations/approve-me.png
+* Content/fincompliance2021/images/integrations/box.png
+* Content/fincompliance2021/images/integrations/calendly.png
+* Content/fincompliance2021/images/integrations/data-migration.png
+* Content/fincompliance2021/images/integrations/docusign.png
+* Content/fincompliance2021/images/integrations/dropbox.png
+* Content/fincompliance2021/images/integrations/google-cloud.png
+* Content/fincompliance2021/images/integrations/morningstar.png
+* Content/fincompliance2021/images/integrations/redtail.png
+* Content/fincompliance2021/images/integrations/sharefile.png
+* Content/fincompliance2021/images/integrations/wealthbox.png
+* Content/fincompliance2021/images/integrations/zapier.png
+* Home/Integrations.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

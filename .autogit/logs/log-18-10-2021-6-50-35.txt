@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Thu Nov 18 2021 06:50:35 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/integrations/Trainual.png
+* Content/fincompliance2021/images/integrations/approve-me.png
+* Content/fincompliance2021/images/integrations/calendly.png
+* Content/fincompliance2021/images/integrations/data-migration.png
+* Content/fincompliance2021/images/integrations/docusign.png
+* Content/fincompliance2021/images/integrations/dropbox.png
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

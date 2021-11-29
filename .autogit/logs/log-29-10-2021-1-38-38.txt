@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Mon Nov 29 2021 01:38:38 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/images/GlacierCybersecurity.webp
+* Content/fincompliance2021/images/images/proxyceo.webp
+* index.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

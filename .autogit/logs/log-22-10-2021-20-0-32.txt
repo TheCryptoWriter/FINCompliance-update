@@ -1,0 +1,24 @@
+-------------------- Auto-Git Log --------------------
+		Mon Nov 22 2021 20:00:32 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* Content/fincompliance2021/images/logos/files/FIN-Disclosure-Multi-Color.png.webp
+* Content/fincompliance2021/images/logos/files/FINContinuityLogo.png.webp
+* Content/fincompliance2021/images/logos/files/FINCybersecurityLogo.png.webp
+* Content/fincompliance2021/images/logos/files/bd-review-logo.png.webp
+* Content/fincompliance2021/images/logos/files/finventure-logo.png.webp
+* Content/fincompliance2021/images/logos/files/logo.png.webp
+* Content/fincompliance2021/images/logos/files/logo2.png.webp
+* Content/fincompliance2021/images/logos/files/ria-consults-logo.png.webp
+* Content/fincompliance2021/images/logos/files/ria-finlancer-logo.png.webp
+* Content/fincompliance2021/images/logos/files/ria-review-logo.png.webp
+
+
+Deleted files:
+
+
+Renamed files:

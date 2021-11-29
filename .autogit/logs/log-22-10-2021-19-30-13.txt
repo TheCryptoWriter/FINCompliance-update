@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Nov 22 2021 19:30:13 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/logos/ria-consults-logo.webp
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

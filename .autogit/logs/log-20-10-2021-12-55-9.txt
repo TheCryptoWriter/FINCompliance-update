@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Sat Nov 20 2021 12:55:09 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Home/Signup.html
+* Home/advisordirectory.html
+* Home/businesscontinuity.html
+* Home/disclosureheader.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

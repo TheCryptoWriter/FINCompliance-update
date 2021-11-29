@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Nov 22 2021 19:58:55 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* Content/fincompliance2021/images/logos/files.zip
+
+
+Deleted files:
+
+
+Renamed files:

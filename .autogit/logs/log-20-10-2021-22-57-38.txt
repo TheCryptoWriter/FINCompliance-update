@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Nov 20 2021 22:57:38 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/images/screenshots/Dashboard.png
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

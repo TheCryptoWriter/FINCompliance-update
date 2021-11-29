@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun Nov 14 2021 22:42:42 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Home/advisordirectory.html
+
+
+Created files:
+* Home/AddConsentCookie
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,45 @@
+-------------------- Auto-Git Log --------------------
+		Sat Nov 20 2021 21:58:39 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/logos/FINContinuityLogo.png
+* Content/fincompliance2021/images/logos/logo2.png
+* Content/fincompliance2021/images/logos/ria-consults-logo.png
+* Content/fincompliance2021/images/logos/ria-finlancer-logo.png
+* Content/fincompliance2021/images/logos/ria-review-logo.png
+
+
+Created files:
+* Content/fincompliance2021/images/logos/FINContinuityLogo-1.png
+* Content/fincompliance2021/images/logos/FINContinuityLogo-2.png
+* Content/fincompliance2021/images/logos/FINContinuityLogo-3.png
+* Content/fincompliance2021/images/logos/bd-review-logo-1.png
+* Content/fincompliance2021/images/logos/bd-review-logo-2.png
+* Content/fincompliance2021/images/logos/bd-review-logo-3.png
+* Content/fincompliance2021/images/logos/bd-review-logo.png
+* Content/fincompliance2021/images/logos/finventure-logo-1.png
+* Content/fincompliance2021/images/logos/finventure-logo-2.png
+* Content/fincompliance2021/images/logos/finventure-logo-3.png
+* Content/fincompliance2021/images/logos/finventure-logo.png
+* Content/fincompliance2021/images/logos/logo-1.png
+* Content/fincompliance2021/images/logos/logo-2.png
+* Content/fincompliance2021/images/logos/logo-3.png
+* Content/fincompliance2021/images/logos/logo2-1.png
+* Content/fincompliance2021/images/logos/logo2-2.png
+* Content/fincompliance2021/images/logos/logo2-3.png
+* Content/fincompliance2021/images/logos/ria-consults-logo-1.png
+* Content/fincompliance2021/images/logos/ria-consults-logo-2.png
+* Content/fincompliance2021/images/logos/ria-consults-logo-3.png
+* Content/fincompliance2021/images/logos/ria-finlancer-logo-1.png
+* Content/fincompliance2021/images/logos/ria-finlancer-logo-2.png
+* Content/fincompliance2021/images/logos/ria-finlancer-logo-3.png
+* Content/fincompliance2021/images/logos/ria-review-logo-1.png
+* Content/fincompliance2021/images/logos/ria-review-logo-2.png
+* Content/fincompliance2021/images/logos/ria-review-logo-3.png
+
+
+Deleted files:
+
+
+Renamed files:

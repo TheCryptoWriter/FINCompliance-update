@@ -1,0 +1,33 @@
+-------------------- Auto-Git Log --------------------
+		Sun Nov 14 2021 22:49:05 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Home/AffiliateProgram.html
+* Home/BusinessManager.html
+* Home/CaseStudies.html
+* Home/ComplianceConsulting.html
+* Home/ComplianceManager.html
+* Home/ContinuityPolicy.html
+* Home/CyberReview.html
+* Home/DisclaimersB.html
+* Home/DisclosureCenter.html
+* Home/FAQB.html
+* Home/FINBusinessMarketplace.html
+* Home/FeaturesB.html
+* Home/HowItWorksB.html
+* Home/Impact.html
+* Home/Integrations.html
+* Home/Login.html
+* Home/PricingB.html
+* Home/PrivacyPolicyB.html
+* Home/WhoWeAre.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

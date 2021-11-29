@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Mon Nov 22 2021 19:31:49 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* Content/fincompliance2021/images/logos/finventure-logo.webp
+* Content/fincompliance2021/images/logos/logo.webp
+* Content/fincompliance2021/images/logos/logo2.webp
+* Content/fincompliance2021/images/logos/ria-consults-logo-small.webp
+* Content/fincompliance2021/images/logos/ria-finlancer-logo.webp
+* Content/fincompliance2021/images/logos/ria-review-logo.webp
+
+
+Deleted files:
+
+
+Renamed files:

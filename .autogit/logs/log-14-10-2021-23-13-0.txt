@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Sun Nov 14 2021 23:13:00 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Home/ContactB.html
+* Home/Signup.html
+* Home/advisordirectory.html
+* Home/businesscontinuity.html
+* Home/disclosureheader.html
+
+
+Created files:
+
+
+Deleted files:
+* Content/fincompliance2021/css/calendly.css
+
+
+Renamed files:

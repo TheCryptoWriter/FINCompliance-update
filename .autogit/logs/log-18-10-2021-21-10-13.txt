@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Thu Nov 18 2021 21:10:13 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Home/WhoWeAre.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

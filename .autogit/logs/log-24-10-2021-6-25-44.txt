@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Wed Nov 24 2021 06:25:44 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* Content/fincompliance2021/images/images/screenshots/iCUESetup_3.38.61_release.msi
+
+
+Deleted files:
+
+
+Renamed files:

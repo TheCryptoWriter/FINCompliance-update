@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Fri Nov 12 2021 21:28:21 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/css/custom.css
+* Home/ContactB.html
+* index.html
+
+
+Created files:
+* .gitignore
+
+
+Deleted files:
+
+
+Renamed files:

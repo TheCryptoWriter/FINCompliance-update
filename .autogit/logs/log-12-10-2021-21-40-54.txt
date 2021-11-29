@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Fri Nov 12 2021 21:40:54 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Home/DisclaimersB.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Nov 17 2021 00:38:05 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/integrations/Trainual.png
+* Home/Integrations.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

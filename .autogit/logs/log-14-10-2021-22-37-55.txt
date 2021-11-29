@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sun Nov 14 2021 22:37:55 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/js/videopopup.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

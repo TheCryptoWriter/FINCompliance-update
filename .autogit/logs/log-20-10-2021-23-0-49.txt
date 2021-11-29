@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Sat Nov 20 2021 23:00:49 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/logos/FINContinuityLogo.png
+* Content/fincompliance2021/images/logos/bd-review-logo.png
+* Content/fincompliance2021/images/logos/finventure-logo.png
+* Content/fincompliance2021/images/logos/ria-review-logo.png
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

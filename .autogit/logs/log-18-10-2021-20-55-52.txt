@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Thu Nov 18 2021 20:55:52 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* Content/fincompliance2021/images/images/jeff-wilson.jpg
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Thu Nov 18 2021 06:53:46 GMT-0700 (Mountain Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Content/fincompliance2021/images/integrations/box.png
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
